@@ -49,7 +49,7 @@ jobs:
       # - name: Upload artifact
       #   uses: actions/upload-artifact@v2
       #   with:
-      #     name: Frankfurt am Main
+      #     name: Hannover
       #     path: cities/germany/hannover/data/*
 
       - name: Commit sub-module
@@ -75,7 +75,7 @@ jobs:
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
           git pull
           git add cities/germany/hannover
-          git commit -m "🗃 Update Frankfurt am Main sub-module"
+          git commit -m "🗃 Update Hannover sub-module"
       - name: Push to repository
         uses: ad-m/github-push-action@master
         if: ${{ github.event_name != 'pull_request' }}
