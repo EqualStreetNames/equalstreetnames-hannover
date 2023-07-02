@@ -101,7 +101,6 @@ Altmarkhof,wikidata,,Q442655,way
 "Am Herrenhäuser Bahnhof",wikidata,,Q800887,way
 "Am Hinüberschen Garten",wikidata,,Q19798648,way
 "Am Hirtenbach",wikidata,,Q18625674,way
-"Am Hochbehälter",wikidata,,Q19964942,way
 "Am Hofs Meisterwinkel",wikidata,,Q19798648,way
 "Am Hohen Ufer",wikidata,,Q468756,relation+way
 "Am Hohmannhof",wikidata,,Q19798648,way
@@ -675,6 +674,7 @@ Gimpelsteg,wikidata,,Q25382,way
 Gimseweg,wikidata,,Q37090551,way
 Ginsterweg,wikidata,,Q5616,way
 Girlitzpark,wikidata,,Q271807,way
+Giselherweg,wikidata,,Q1291259,way
 Glashüttenstraße,wikidata,,Q1576275,way
 "Glatzer Straße",wikidata,,Q284604,way
 "Gleidinger Straße",wikidata,,Q315389,way
@@ -1149,7 +1149,6 @@ Lathusenstraße,wikidata,,Q19798648,way
 Läuferweg,wikidata,,Q19798648,way
 Laurinweg,wikidata,,Q69471574,way
 "Lausitzer Wende",wikidata,,Q32530,way
-Lavaterhof,wikidata,,Q123918,way
 Lavendelweg,wikidata,,Q42081,way
 Lebaweg,wikidata,,Q1810813,way
 Lechstraße,wikidata,,Q155841,way
@@ -2322,7 +2321,6 @@ Mittelhalle,,,,relation
 Mittelweg,,,,way
 Möhringsberg,,,,way
 Möllerkampbrücke,,,,way
-Moorautobahn,,,,way
 Moosgrund,,,,way
 Morgensonne,,,,way
 Müggenweg,,,,way
@@ -2373,7 +2371,6 @@ Rathenauplatz,,,,relation
 "Räume der Stille",,,,way
 Rehflucht,,,,way
 Rehwinkelweg,,,,way
-Reinbothweg,,,,way
 Reitwinkelbrücke,,,,way
 Rennstieg,,,,way
 Rettungsstollen,,,,way
