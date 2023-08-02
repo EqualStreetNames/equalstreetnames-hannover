@@ -1435,7 +1435,6 @@ Plantagenstraße,wikidata,,Q19798648,way
 Platanenhof,wikidata,,Q163025,way
 "Platz an der Basilika",wikidata,,Q810108,relation
 "Platz der Göttinger Sieben",wikidata,,Q632130,relation
-"Platz der Kaufleute",wikidata,,Q897399,way
 "Platz der Weltausstellung",wikidata,,Q734463,way
 "Plauener Straße",wikidata,,Q3952,way
 Plengestraße,wikidata,,Q19798648,way
@@ -1525,7 +1524,6 @@ Rodewinkel,wikidata,,Q19798648,way
 Röhrbeinweg,wikidata,,Q19798648,way
 Röhrichtweg,wikidata,,Q1434274,way
 Rohrskamp,wikidata,,Q1434274,way
-Rolandstraße,wikidata,,Q207535,way
 Rominteweg,wikidata,,Q741927,way
 Rönnegang,wikidata,,Q690062,way
 Rönnehof,wikidata,,Q690062,way
@@ -2076,7 +2074,6 @@ Bauerngrabenweg,,,,way
 Baumkundeweg,,,,way
 Beckstraße,,,,way
 Beekebrücke,,,,way
-Bella-Vista-Brücke,,,,way
 "Bezirk 01",,,,way
 "Bezirk 1",,,,way
 "Bezirk 11",,,,way
@@ -2119,6 +2116,7 @@ Dahlienallee,,,,way
 Dahlienweg,,,,way
 Deisterweg,,,,way
 "Die Insel",,,,way
+"Die blaue Brücke",,,,way
 Döbbeckehof,,,,way
 "Döhrener Brücke",,,,way
 "Döhrener Straße",,,,way
@@ -2134,11 +2132,13 @@ Eichhörnchenweg,,,,way
 Elkartallee,,,,relation
 Ellerngrund,,,,way
 Elmweg,,,,way
+Elsternweg,,,,way
 Elsterweg,,,,way
 Ema-Mohr-Straße,,,,way
 Emil-Schorsch-Platz,,,,relation
 "Engelborsteler Damm",,,,way
 Entenpfuhl,,,,way
+Entenweg,,,,way
 Enzianweg,,,,way
 Erdbeerenweg,,,,way
 Erdbeerweg,,,,way
@@ -2214,8 +2214,8 @@ Heimweg,,,,way
 Heinz-Boldt-Weg,,,,way
 Heisterbergallee,,,,way
 Helenenstieg,,,,way
+Hildebrand-Weg,,,,way
 Himbeerweg,,,,way
-Hindenburgstraße,,,,way
 Hindernisbahn,,,,way
 "Hinterm Brinke",,,,way
 Hiroshimaweg,,,,way
@@ -2328,7 +2328,6 @@ Müggenweg,,,,way
 Mühlenbergzentrum,,,,way
 "Nasser Grund",,,,way
 Naturisten-Barfuß-Pfad,,,,way
-"Nenndorfer Straße",,,,way
 Nordpassage,,,,way
 Nordufer,,,,way
 Nussbaumweg,,,,way
@@ -2469,6 +2468,7 @@ Wiesenweg,,,,way
 Wildwechsel,,,,way
 Winkelstraße,,,,way
 Wittenbergpark,,,,way
+"Wohnpark Wettbergen",,,,way
 Wollgrasfeld,,,,way
 "Wülfeler Maschweg",,,,way
 Zigelskyweg,,,,way
