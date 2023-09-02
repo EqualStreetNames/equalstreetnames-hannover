@@ -110,7 +110,6 @@ Irmgard-Woldering-Straße,wikidata,F,Q1673025,way
 Irmhild-Warweg-Straße,wikidata,F,Q1361430,way
 Julienne-Trouet-Platz,wikidata,F,Q98216019,way
 Karla-Schmidt-Straße,wikidata,F,Q98684175,way
-Karolinenstraße,wikidata,F,Q76948,way
 Käte-Werner-Straße,wikidata,F,Q97482045,way
 Katharina-Behrend-Weg,wikidata,F,Q12053121,way
 Katharina-Petersen-Weg,wikidata,F,Q1735968,way
@@ -510,6 +509,7 @@ Ganghoferstraße,wikidata,M,Q77475,way
 Garbeweg,wikidata,M,Q111248,way
 Garvensstraße,wikidata,M,Q2572770,way
 Gaußstraße,wikidata,M,Q6722,way
+Gebrüder-Hartmann-Straße,wikidata,M,Q121296509;Q121296623,way
 Gedrathof,wikidata,M,Q1453632,way
 Geibelplatz,wikidata,M,Q77333,way
 Geibelstraße,wikidata,M,Q77333,way
@@ -640,7 +640,7 @@ Heinrich-Meister-Allee,wikidata,M,Q1598291,way
 Heinrich-Möhle-Weg,wikidata,M,Q23071776,way
 Heinrich-Stamme-Straße,wikidata,M,Q15455646,way
 Heinrich-Warnecke-Weg,wikidata,M,Q97500582,way
-Heinrichstraße,wikidata,M,Q19798648;Q2018484;Q98446577,way
+Heinrichstraße,wikidata,M,Q2018484;Q98446577,way
 Heintzestraße,wikidata,M,Q97391794,way
 Heisenbergstraße,wikidata,M,Q40904,way
 Heisenstraße,wikidata,M,Q111781270,way
@@ -1313,3 +1313,4 @@ Zilleweg,wikidata,M,Q498211,way
 Zimmermannstraße,wikidata,M,Q115878,way
 Zuckmayerstraße,wikidata,M,Q76820,way
 Zwinglistraße,wikidata,M,Q123034,way
+Karolinenstraße,wikidata,NB,Q76948,way
