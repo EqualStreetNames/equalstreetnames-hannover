@@ -190,6 +190,7 @@ Amselgasse,wikidata,,Q25234,way
 "Anderter Straße",wikidata,,Q97842946,way
 Anecampstraße,wikidata,,Q25393157,way
 Angerstraße,wikidata,,Q1434274;Q57743,way
+"Anhalter Hof",wikidata,,Q155578,way
 "Apenrader Straße",wikidata,,Q154897,way
 Apfelgarten,wikidata,,Q89,way
 Archivstraße,wikidata,,Q106614682,way
@@ -450,7 +451,6 @@ Erikastraße,wikidata,,Q206998,way
 Erikaweg,wikidata,,Q206998,way
 Erlenstieg,wikidata,,Q25239,way
 Erlenweg,wikidata,,Q25239,way
-"Ermlander Weg",wikidata,,Q322620,way
 Eschenplan,wikidata,,Q128887,way
 Escherstraße,wikidata,,Q31842245,way
 Espenhof,wikidata,,Q146110,way
@@ -899,7 +899,6 @@ Kurze-Kamp-Straße,wikidata,,Q1434274,way
 "Laher Kirchweg",wikidata,,Q2316591,way
 Laher-Feld-Straße,wikidata,,Q1434274,way
 Lahwiesen,wikidata,,Q1434274,way
-"Landsberger Weg",wikidata,,Q104731,way
 Landschaftstraße,wikidata,,Q1026602,way
 Lange-Feld-Straße,wikidata,,Q1434274,way
 Lange-Hop-Straße,wikidata,,Q1434274,way
@@ -908,6 +907,7 @@ Langrederhof,wikidata,,Q98435224,way
 Lankwitzweg,wikidata,,Q671474,way
 Lärchenstraße,wikidata,,Q25618,way
 Lärchenweg,wikidata,,Q25618,way
+"Laubaner Weg",wikidata,,Q115723,way
 "Lauenauer Straße",wikidata,,Q592405,way
 "Lauenburger Hof",wikidata,,Q492380,way
 Laurinweg,wikidata,,Q69471574,way
@@ -968,6 +968,7 @@ Lubowitzweg,wikidata,,Q6640660,way
 "Luckenwalder Straße",wikidata,,Q574146,way
 Lüdersworth,wikidata,,Q1434274,way
 Lüderweg,wikidata,,Q19688942,way
+Ludwigsaue,wikidata,,Q4404694,way
 Lundenweg,wikidata,,Q1880315,way
 "Lüneburger Damm",wikidata,,Q3920,way
 Lütkenkamp,wikidata,,Q1434274,way
@@ -1034,7 +1035,6 @@ Nachmittagsweg,wikidata,,Q1434274,way
 Nachtbleek,wikidata,,Q1434274,way
 "Nackenberger Straße",wikidata,,Q1434274,way
 Namibia-Allee,wikidata,,Q1030,way
-"Naugarder Weg",wikidata,,Q989427,way
 "Nauheimer Straße",wikidata,,Q16105,way
 "Naumburger Straße",wikidata,,Q15986,way
 Neanderstraße,wikidata,,Q47461737,way
@@ -1069,6 +1069,7 @@ Niedersachsenring,wikidata,,Q1197,way
 Nikolaistraße,wikidata,,Q1455685,way
 Nogatweg,wikidata,,Q980095,way
 Nollendorfstraße,wikidata,,Q659861,way
+Noltemeyerbrücke,wikidata,,Q1284613,way
 Nordallee,wikidata,,Q659,way
 "Norderneyer Weg",wikidata,,Q17076164,way
 Nordfeldstraße,wikidata,,Q1434274,way
@@ -1095,7 +1096,6 @@ Okerweg,wikidata,,Q701512,way
 Oleanderweg,wikidata,,Q155833,way
 Omptedastraße,wikidata,,Q23672750,way
 Opernplatz,wikidata,,Q315705,relation
-Orchideenweg,wikidata,,Q25308,way
 Ortskamp,wikidata,,Q1434274,way
 "Osnabrücker Straße",wikidata,,Q2916,way
 Ostafrikastraße,wikidata,,Q924,way
@@ -1107,6 +1107,7 @@ Osterstraße,wikidata,,Q684,way
 Ostfeldstraße,wikidata,,Q1434274,way
 Ostlandstraße,wikidata,,Q700842,way
 "Ostwender Straße",wikidata,,Q98446777,way
+Otternplan,wikidata,,Q200184,way
 Ottweilerstraße,wikidata,,Q562147,way
 Owiedenfeldstraße,wikidata,,Q1434274,way
 "Paderborner Straße",wikidata,,Q2971,way
@@ -1167,6 +1168,7 @@ Rampenstraße,wikidata,,Q16830551,way
 Rankenstraße,wikidata,,Q165859,way
 Rapunzelweg,wikidata,,Q273585,way
 Raschplatzhochstraße,wikidata,,Q1688975,way
+"Ratiborer Weg",wikidata,,Q25302,way
 Rebhuhnfeld,wikidata,,Q26106,way
 Regaweg,wikidata,,Q504582,way
 "Regenwalder Straße",wikidata,,Q558723,way
@@ -1241,6 +1243,7 @@ Sachsenhain,wikidata,,Q2210617,way
 Sachsenhof,wikidata,,Q1202,way
 Sadebuschstraße,wikidata,,Q25662,way
 Safariweg,wikidata,,Q849944,way
+"Saganer Weg",wikidata,,Q158459,way
 Sahlkamp,wikidata,,Q1434274,relation+way
 Sahlkampmarkt,wikidata,,Q76356866,way
 Salamancaweg,wikidata,,Q708580,way
@@ -1271,6 +1274,7 @@ Scheibenstandsweg,wikidata,,Q521839,way
 Schieferkamp,wikidata,,Q1434274,way
 Schierholzstraße,wikidata,,Q1434274,way
 "Schierker Weg",wikidata,,Q702123,way
+Schiffgraben,wikidata,,Q113508937,relation
 Schiffhornfeld,wikidata,,Q1434274,way
 Schipworden,wikidata,,Q1434274,way
 Schlehengarten,wikidata,,Q129018,way
@@ -1531,6 +1535,7 @@ Westerfeldstraße,wikidata,,Q1434274,way
 Westerwaldstraße,wikidata,,Q640966,way
 Westpreußenufer,wikidata,,Q161947,way
 Westschnellweg,wikidata,,Q679,way
+Weststraße,wikidata,,Q679,way
 "Wettberger Straße",wikidata,,Q97940796,way
 Wettinerweg,wikidata,,Q152909,way
 Wiedenlohe,wikidata,,Q1434274,way
@@ -1651,7 +1656,6 @@ Allerweg,,,,way
 "Am Listholze",,,,way
 "Am Lohgraben",,,,way
 "Am Marstall",,,,way
-"Am Nordhang",,,,way
 "Am Papehof",,,,way
 "Am Reitplatz",,,,way
 "Am Rohfeld",,,,way
@@ -2101,7 +2105,6 @@ Landwehrstraße,,,,way
 Langrederstraße,,,,way
 Laportestraße,,,,way
 Lathusenstraße,,,,way
-"Laubaner Weg",,,,way
 Läuferweg,,,,way
 Lavesbrücke,,,,way
 Leinaustraße,,,,way
@@ -2128,7 +2131,6 @@ Lister-Meilen-Passage,,,,way
 Löhrweg,,,,way
 Lüdenstraße,,,,way
 Lüderitzwinkel,,,,way
-Ludwigsaue,,,,way
 Ludwigstraße,,,,way
 Luhnenstraße,,,,way
 Lunapark,,,,way
@@ -2201,7 +2203,6 @@ Ossenkoppweg,,,,way
 Osterbrückenweg,,,,way
 Ostergrube,,,,way
 Ostermeierstraße,,,,way
-Otternplan,,,,way
 Palmenweg,,,,way
 Palmstraße,,,,way
 Pannenflickergang,,,,way
@@ -2249,7 +2250,6 @@ Rabenwinkel,,,,way
 Rahlfskamp,,,,way
 Rathenauplatz,,,,relation
 Rathingstraße,,,,way
-"Ratiborer Weg",,,,way
 Ratswiese,,,,way
 "Raum der Annahme",,,,way
 "Raum der Schwermut",,,,way
@@ -2294,7 +2294,6 @@ Rundshorn,,,,way
 "Rundweg Sonnensee",,,,way
 Rüsterburg,,,,way
 Rutenbergstraße,,,,way
-"Saganer Weg",,,,way
 Saldernstraße,,,,way
 Sallplatz,,,,way
 Sallstraße,,,,way
@@ -2303,7 +2302,6 @@ Sanddornweg,,,,way
 Scheelenkamp,,,,way
 Scheidestraße,,,,way
 Scherensliepergang,,,,way
-Schiffgraben,,,,relation
 Schilfweg,,,,way
 Schloßbrücke,,,,way
 "Schloßwender Straße",,,,way
@@ -2444,7 +2442,6 @@ Weißdornweg,,,,way
 Weißekreuzstraße,,,,way
 Wendehagen,,,,way
 Wesselstraße,,,,way
-Weststraße,,,,way
 "Wettberger Edelhof",,,,way
 Wickenweg,,,,way
 Widemannstraße,,,,way
