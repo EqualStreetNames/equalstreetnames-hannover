@@ -1607,16 +1607,13 @@ Ahornweg,,,,way
 Akazienweg,,,,way
 Alfred-Müller-Weg,,,,way
 Allerweg,,,,way
-"Alte Forst",,,,way
 "Alte Gehägestraße",,,,way
 "Alte Hansastraße",,,,way
 "Alte Rennstrecke",,,,way
 "Alte Waldchaussee",,,,way
 "Alte Ziegelei",,,,way
 "Alter Abfuhrweg",,,,way
-"Alter Bruch",,,,way
 "Alter Damm",,,,way
-"Alter Grenzweg",,,,way
 "Alter Mühlenkamp",,,,way
 "Altfeierabend Bezirk 16",,,,way
 "Altwarmbüchener Moor",,,,way
@@ -1639,7 +1636,6 @@ Allerweg,,,,way
 "Am Graswege",,,,way
 "Am Grünstreifen",,,,way
 "Am Gutspark",,,,way
-"Am Heidkampe",,,,way
 "Am Hinüberschen Garten",,,,way
 "Am Hofs Meisterwinkel",,,,way
 "Am Hohmannhof",,,,way
@@ -1751,7 +1747,6 @@ Birnenweg,,,,way
 Blantyreweg,,,,way
 Bleichenstraße,,,,way
 Blindenweg,,,,way
-Blitzstein,,,,way
 Blomeweg,,,,way
 Blumengang,,,,way
 Blumenstraße,,,,way
@@ -1783,7 +1778,6 @@ Brühlstraße,,,,way
 Brunnenstieg,,,,way
 Brunnenstraße,,,,way
 Buchenweg,,,,way
-Bültenkamp,,,,way
 Bummelgang,,,,way
 Bünteweg,,,,way
 Burgstraße,,,,relation
@@ -1801,7 +1795,6 @@ Dammstraße,,,,way
 Dannenbergstraße,,,,way
 Deisterweg,,,,way
 Deitersweg,,,,way
-"Die Insel",,,,way
 "Die blaue Brücke",,,,way
 Dieckbornstraße,,,,way
 Döbbeckehof,,,,way
@@ -1830,7 +1823,6 @@ Eichhörnchenweg,,,,way
 Eisteichweg,,,,way
 Elisenstraße,,,,way
 Elkartallee,,,,relation
-Ellerngrund,,,,way
 Elmweg,,,,way
 Elsternweg,,,,way
 Elsterweg,,,,way
@@ -1838,7 +1830,6 @@ Ema-Mohr-Straße,,,,way
 Emil-Schorsch-Platz,,,,relation
 "Engelborsteler Damm",,,,way
 Entenfangweg,,,,way
-Entenpfuhl,,,,way
 Entenweg,,,,way
 Enzianweg,,,,way
 Epiweg,,,,way
@@ -1873,6 +1864,7 @@ Floraweg,,,,way
 Flügeldamm,,,,way
 Flurstraße,,,,way
 Föhrenweg,,,,way
+Försterweg,,,,way
 Forsytienweg,,,,way
 Franz-Heppler-Weg,,,,way
 Franz-Mock-Weg,,,,way
@@ -1916,9 +1908,6 @@ Gredelhof,,,,way
 Greitheweg,,,,way
 Grenzgraben,,,,way
 Grenzweg,,,,way
-"Grenzweg Hohes Moor",,,,way
-"Grenzweg Ost",,,,way
-"Grenzweg West",,,,way
 Gretelsteig,,,,way
 Grobeweg,,,,way
 Gronostraße,,,,way
@@ -1963,7 +1952,6 @@ Heesternwinkel,,,,way
 Hegebläch,,,,way
 Heideblümchen,,,,way
 Heideblüte,,,,way
-Heidegang,,,,way
 Heidegrün,,,,way
 Heideweg,,,,way
 Heidornstraße,,,,way
@@ -1982,18 +1970,14 @@ Heymesstraße,,,,way
 Hildebrand-Weg,,,,way
 Himbeerweg,,,,way
 Hindernisbahn,,,,way
-"Hinterm Brinke",,,,way
 Hintzehof,,,,way
 Hiroshimaweg,,,,way
 Höfestraße,,,,way
 Hoffmannshof,,,,way
 Hogrefestraße,,,,way
 "Hohe Brücke",,,,way
-"Hohe Lage",,,,way
-"Hohe Lage Nord",,,,way
 "Hohe Straße",,,,relation
 "Hoher Weg",,,,way
-"Hohes Moor",,,,way
 Holleweg,,,,way
 Höltyplatz,,,,way
 Holunderweg,,,,way
@@ -2041,8 +2025,6 @@ Jörnshof,,,,way
 Jungfernstieg,,,,way
 "KGV Feierabend Erlenweg",,,,way
 "KGV Krügersruh, Maiblumenweg",,,,way
-"Kahles Feld",,,,way
-"Kahles Felde",,,,way
 Karl-König-Weg,,,,way
 Katzengang,,,,way
 Katzenstieg,,,,way
@@ -2135,7 +2117,6 @@ Ludwigstraße,,,,way
 Luhnenstraße,,,,way
 Lunapark,,,,way
 Lüssenhopstraße,,,,way
-"Lüttjes Moos",,,,way
 Lützekenstraße,,,,way
 Maiblumenweg,,,,way
 Märchenweg,,,,way
@@ -2169,7 +2150,6 @@ Möhringsberg,,,,way
 Möllerkampbrücke,,,,way
 Mönckebergallee,,,,way
 Moocksgang,,,,way
-Moosgrund,,,,way
 Morgensonne,,,,way
 Mörlinsstraße,,,,way
 Morwegsgasse,,,,way
@@ -2181,8 +2161,6 @@ Mühlenholzweg,,,,way
 Münzstraße,,,,way
 Mushop,,,,way
 Namedorfstraße,,,,way
-"Nasser Grund",,,,way
-Naturisten-Barfuß-Pfad,,,,way
 Nettemannstraße,,,,way
 "Neue Straße",,,,way
 "Neuer Weg",,,,way
@@ -2226,7 +2204,6 @@ Plantagenstraße,,,,way
 "Platz der Meck­len­bur­gi­schen",,,,way
 Plengestraße,,,,way
 Podbipassage,,,,way
-"Poggen Tümpel",,,,way
 Poggenkamp,,,,way
 Posenweg,,,,way
 Posthornstraße,,,,way
@@ -2258,7 +2235,6 @@ Ratswiese,,,,way
 Raupertstraße,,,,way
 Rautenstraße,,,,way
 Redenstraße,,,,way
-Rehflucht,,,,way
 Rehwinkelweg,,,,way
 Reineckeweg,,,,way
 Reitwallstraße,,,,way
@@ -2291,7 +2267,6 @@ Rotbuchenallee,,,,way
 Rotermundstraße,,,,way
 Rouenweg,,,,way
 Rundshorn,,,,way
-"Rundweg Sonnensee",,,,way
 Rüsterburg,,,,way
 Rutenbergstraße,,,,way
 Saldernstraße,,,,way
@@ -2318,12 +2293,7 @@ Schwanenburg,,,,way
 "Schwarzer Weg",,,,way
 Schwedenpfad,,,,way
 Schwemannstraße,,,,way
-"Seeeinstieg Am Rodelberg",,,,way
-"Seeeinstieg Bültenkamp/Hohe Lage",,,,way
-"Seeeinstieg Nordufer",,,,way
-"Seeeinstieg Rehflucht",,,,way
 Seegershof,,,,way
-Seegrund,,,,way
 Seestraße,,,,way
 Seeweg,,,,way
 Seilwinderstraße,,,,way
@@ -2402,7 +2372,6 @@ Uhugasse,,,,way
 Ulenflucht,,,,way
 Ulrichstraße,,,,way
 "Unter Uns",,,,way
-"Unteres Moos",,,,way
 Vahrenheide,,,,way
 Veilchenstraße,,,,way
 Veilchenweg,,,,way
@@ -2420,7 +2389,6 @@ Von-Escherte-Straße,,,,way
 Wacholderweg,,,,way
 Waldchaussee,,,,way
 Waldmops-Weg,,,,way
-Waldparkplatz,,,,way
 Warmbüchenkamp,,,,way
 Warmbüchenstraße,,,,way
 Warstraße,,,,way
@@ -2454,6 +2422,7 @@ Wiesenstraße,,,,way
 Wiesenweg,,,,way
 Wildthagenweg,,,,way
 Wildwechsel,,,,way
+Wilkeninghof,,,,way
 Willführstraße,,,,way
 Windmühlenstraße,,,,way
 Winkelriede,,,,way
@@ -2461,12 +2430,10 @@ Winkelstraße,,,,way
 Wittboldstraße,,,,way
 Wöhlerstraße,,,,way
 "Wohnpark Wettbergen",,,,way
-Wollgrasfeld,,,,way
 "Wülfeler Maschweg",,,,way
 Wulfspark,,,,way
 Zigelskyweg,,,,way
 "Zu den Mühlen",,,,way
-"Zugang Fischerhütte",,,,way
 "Zugang zu den Sporthallen der IGS-Südstadt",,,,way
 "Zugang zum Kleingartenverein Silberborn",,,,way
 "Zum Paradies",,,,way
@@ -2480,4 +2447,3 @@ Zigelskyweg,,,,way
 "Zur Stadtgärtnerei",,,,way
 "Zur Tanne",,,,way
 "Zur guten Hoffnung",,,,way
-"Zuweg Sonnensee",,,,way
