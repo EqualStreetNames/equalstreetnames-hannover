@@ -84,7 +84,7 @@ Großkopfstraße,wikidata,F,Q98280635,way
 Hanna-Neuse-Straße,wikidata,F,Q107710913,way
 Hannah-Arendt-Platz,wikidata,F,Q60025,way
 Hannah-Arendt-Weg,wikidata,F,Q60025,way
-Hannelore-Kunze-Straße,wikidata,F,Q97481819,way
+Hannelore-Kunze-Straße,wikidata,F,Q1227673;Q9202379;Q97481819,way
 Hedwig-Bollhagen-Straße,wikidata,F,Q109473,way
 Hedwigstraße,wikidata,F,Q109194183,way
 Hedwigsweg,wikidata,F,Q57520,way
@@ -257,6 +257,7 @@ Berckhusenstraße,wikidata,M,Q15435804,way
 Berdingstraße,wikidata,M,Q24064138,way
 Bergiusstraße,wikidata,M,Q76614,way
 Bergmannstraße,wikidata,M,Q24039009,way
+Berkowitzweg,wikidata,M,Q1431264,way
 Berlageweg,wikidata,M,Q318816,way
 Bernadotteallee,wikidata,M,Q212163,way
 Bernardisstraße,wikidata,M,Q488705,way
@@ -426,6 +427,7 @@ Eilersweg,wikidata,M,Q1707425,way
 Einemstraße,wikidata,M,Q62716,way
 Einsteinstraße,wikidata,M,Q937,way
 Eisenbartweg,wikidata,M,Q896620,way
+Eisteichweg,wikidata,M,Q124357835,way
 Emil-Berliner-Weg,wikidata,M,Q71004,way
 Emil-Meyer-Straße,wikidata,M,Q24025464,way
 Enckestraße,wikidata,M,Q57294,way
@@ -695,6 +697,7 @@ Hufelandstraße,wikidata,M,Q32257,way
 Hugo-Knappworst-Weg,wikidata,M,Q54605984,way
 Hugo-Preuß-Straße,wikidata,M,Q61708,way
 Hülsinghof,wikidata,M,Q114980815,way
+Humboldtstraße,wikidata,M,Q6694,way
 Hunaeusstraße,wikidata,M,Q1503917,way
 Hurlebuschweg,wikidata,M,Q1512082,way
 Ifflandstraße,wikidata,M,Q1081402,way
@@ -921,6 +924,7 @@ Moritz-Simon-Weg,wikidata,M,Q1170875,way
 Mozartstraße,wikidata,M,Q254,way
 Münterstraße,wikidata,M,Q29472355,way
 Musäusweg,wikidata,M,Q213974,way
+Muthesiusweg,wikidata,M,Q62260,way
 Nachtigalstraße,wikidata,M,Q60549,way
 Nansenufer,wikidata,M,Q72292,way
 Nestroyweg,wikidata,M,Q44862,way
@@ -1100,6 +1104,7 @@ Schreberallee,wikidata,M,Q153160,way
 Schröterstraße,wikidata,M,Q77232,way
 Schubertstraße,wikidata,M,Q7312,way
 Schulze-Delitzsch-Straße,wikidata,M,Q215961,way
+Schumannstraße,wikidata,M,Q7351,way
 Schumannweg,wikidata,M,Q7351,way
 Schünemannplatz,wikidata,M,Q110315199,way
 Schuppertweg,wikidata,M,Q98954546,way
@@ -1131,7 +1136,9 @@ Simrockstraße,wikidata,M,Q70350,way
 Slevogtweg,wikidata,M,Q703356,way
 Slicherstraße,wikidata,M,Q1873817,way
 Smalianwinkel,wikidata,M,Q48631403,way
+Smetanaweg,wikidata,M,Q48173,way
 Sokelantstraße,wikidata,M,Q108380824,way
+Sommerfeldstraße,wikidata,M,Q23060133,way
 Sonnenscheinhof,wikidata,M,Q107712,way
 Spanuthstraße,wikidata,M,Q85844225,way
 Spengemannweg,wikidata,M,Q94125396,way
@@ -1264,6 +1271,7 @@ Werner-Blumenberg-Weg,wikidata,M,Q2560875,way
 Werner-Holtfort-Weg,wikidata,M,Q2561533,way
 Werner-Kraft-Straße,wikidata,M,Q216536,way
 Wernerstraße,wikidata,M,Q65054790,way
+Wesenerweg,wikidata,M,Q98582434,way
 Wespyhof,wikidata,M,Q15455562,way
 Westermannweg,wikidata,M,Q897758,way
 Wichernstraße,wikidata,M,Q73048,way
