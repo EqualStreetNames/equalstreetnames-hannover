@@ -1,4 +1,5 @@
 name,source,gender,wikidata,type
+Rut-und-Klaus-Bahlsen-Weg,wikidata,+,;Q1238540;Q1744878,way
 Ada-Lessing-Straße,wikidata,F,Q346156,way
 Adelheid-Reinbold-Hof,wikidata,F,Q354706,way
 Adelheidstraße,wikidata,F,Q57645,way
@@ -65,7 +66,6 @@ Erika-Pfingsten-Straße,wikidata,F,Q97979065,way
 Erika-Wedekind-Weg,wikidata,F,Q91728,way
 Erna-Blencke-Weg,wikidata,F,Q21549437,way
 Erna-Mohr-Straße,wikidata,F,Q1356095,way
-Erna-Winkelhoff-Straße,wikidata,F,Q97713507,way
 Fanny-Hensel-Weg,wikidata,F,Q57286,way
 Freda-Niemann-Straße,wikidata,F,Q16740930,way
 Fridastraße,wikidata,F,Q98006511,way
@@ -106,7 +106,6 @@ Ingeborg-Steinohrt-Weg,wikidata,F,Q1506833,way
 Ira-Wolkowa-Weg,wikidata,F,Q110181427,way
 Irma-Pickerd-Weg,wikidata,F,Q107711649,way
 Irmgard-Woldering-Straße,wikidata,F,Q1673025,way
-Irmhild-Warweg-Straße,wikidata,F,Q1361430,way
 Jina-Mahsa-Amini-Platz,wikidata,F,Q113994656,way
 Julienne-Trouet-Platz,wikidata,F,Q98216019,way
 Karla-Schmidt-Straße,wikidata,F,Q98684175,way
@@ -128,7 +127,6 @@ Lola-Fischel-Straße,wikidata,F,Q6467769,way
 Lotte-Gleichmann-Weg,wikidata,F,Q1294048,way
 Louise-Schroeder-Straße,wikidata,F,Q104581,way
 Luise-Blume-Straße,wikidata,F,Q110303104,way
-Luise-Finke-Weg,wikidata,F,Q1109267,way
 Luise-Kaschnitz-Weg,wikidata,F,Q62365,way
 Luise-Westkirch-Weg,wikidata,F,Q19218409,way
 Luisenstraße,wikidata,F,Q233203,way
@@ -140,6 +138,7 @@ Margarethe-Gehrig-Weg,wikidata,F,Q107718137,way
 Margarethe-und-Max-Rüdenberg-Platz,wikidata,F,Q98216102,way
 Margot-Büttner-Weg,wikidata,F,Q63486215,way
 Margot-Matthias-Straße,wikidata,F,Q98381733,way
+Maria-Caspar-Filser-Straße,wikidata,F,Q545965,way
 Maria-Montessori-Weg,wikidata,F,Q131117,way
 Maria-Suszyńska-Bartmann-Weg,wikidata,F,Q98280492,way
 Marianne-Adrian-Weg,wikidata,F,Q98603257,way
@@ -351,13 +350,13 @@ Carl-Hornemann-Straße,wikidata,M,Q1038901,way
 Carl-Loges-Straße,wikidata,M,Q1037037,way
 Carlo-Schmid-Allee,wikidata,M,Q67511,way
 Chamissostraße,wikidata,M,Q154782,way
-"Charlys Brücke",wikidata,M,Q58698513,way
 Christian-Flemes-Weg,wikidata,M,Q13188208,way
 Christianplatz,wikidata,M,Q153586,way
 Cillienstraße,wikidata,M,Q361159,way
 Claudiusstraße,wikidata,M,Q77338,way
 Clausewitzstraße,wikidata,M,Q76430,way
 Comeniusstraße,wikidata,M,Q12735,way
+Conrad-Bube-Weg,wikidata,M,Q1126681,way
 Conrad-Wilhelm-Hase-Platz,wikidata,M,Q95970,relation
 Constantinstraße,wikidata,M,Q111728618,way
 Corinthstraße,wikidata,M,Q157610,way
@@ -382,6 +381,7 @@ De-Haën-Platz,wikidata,M,Q124837,way
 De-Vries-Hof,wikidata,M,Q160192,way
 Defreggerstraße,wikidata,M,Q78711,way
 Deichmannstraße,wikidata,M,Q695317,way
+Delpweg,wikidata,M,Q61305,way
 Derfflingerstraße,wikidata,M,Q698453,way
 Dessauerstraße,wikidata,M,Q61695,way
 Detmoldstraße,wikidata,M,Q164990,way
@@ -548,7 +548,6 @@ Goebenstraße,wikidata,M,Q65591,way
 Goerdelerstraße,wikidata,M,Q57430,way
 Goetheplatz,wikidata,M,Q5879,way
 Goethestraße,wikidata,M,Q106840484;Q5879,way
-Göhrshof,wikidata,M,Q97716603,way
 Gollstraße,wikidata,M,Q110287746,way
 Gorch-Fock-Straße,wikidata,M,Q69087,way
 Gottfried-Benn-Weg,wikidata,M,Q57277,way
@@ -627,7 +626,6 @@ Haydnstraße,wikidata,M,Q7349,way
 Hebbelstraße,wikidata,M,Q57182,way
 Heesestraße,wikidata,M,Q1498416,way
 Heiligerstraße,wikidata,M,Q1357348,way
-Heinemanhof,wikidata,M,Q446598,way
 Heinrich-Bock-Hof,wikidata,M,Q978097,way
 Heinrich-Böll-Weg,wikidata,M,Q42747,way
 Heinrich-Heine-Platz,wikidata,M,Q44403,relation+way
@@ -750,7 +748,7 @@ Karl-Thiele-Weg,wikidata,M,Q1495499,way
 Karl-Thürmer-Weg,wikidata,M,Q98035698,way
 Karl-Wiechert-Allee,wikidata,M,Q1733373,relation+way
 Karlstraße,wikidata,M,Q15731830;Q97979686,way
-Karmarschstraße,wikidata,M,Q84714,relation
+Karmarschstraße,wikidata,M,Q84714,relation+way
 Kaulbachstraße,wikidata,M,Q447981,way
 Keplerstraße,wikidata,M,Q8963,way
 Kerstingstraße,wikidata,M,Q98040251,way
@@ -996,6 +994,8 @@ Pilotystraße,wikidata,M,Q505758,way
 Planckstraße,wikidata,M,Q90162,way
 Platenstraße,wikidata,M,Q1445768,way
 Plathnerstraße,wikidata,M,Q18410001,way
+"Platz der Menschenrechte",wikidata,M,Q1599069;Q8458,relation+way
+"Platz der Menscherechte",wikidata,M,Q1599069,way
 Plettenbergstraße,wikidata,M,Q1794320,way
 Plüschowstraße,wikidata,M,Q69792,way
 Podbielskistraße,wikidata,M,Q71757,way
@@ -1208,7 +1208,6 @@ Timmendorffstraße,wikidata,M,Q98814464,way
 Tischbeinstraße,wikidata,M,Q213973,way
 Tizianstraße,wikidata,M,Q47551,way
 Torstenssonstraße,wikidata,M,Q316816,way
-Trammplatz,wikidata,M,Q1599069,relation+way
 Treitschkestraße,wikidata,M,Q62400,way
 Tresckowstraße,wikidata,M,Q57574,way
 Tripweg,wikidata,M,Q1713030,way

@@ -35,6 +35,7 @@ Alt-Vinnhorst,wikidata,,Q97763124,way
 "Alte Schmiede",wikidata,,Q40558,way
 "Alte Speicherstraße",wikidata,,Q1362225,way
 "Alte Stöckener Straße",wikidata,,Q63387819,way
+"Alte Südschnellwegbrücke (Abbruch)",wikidata,,Q667,way
 "Altenauer Weg",wikidata,,Q436639,way
 "Altenbekener Damm",wikidata,,Q1576238,relation
 "Alter Flughafen",wikidata,,Q42291231,way
@@ -334,7 +335,6 @@ Bultstraße,wikidata,,Q18615934,way
 Burgweg,wikidata,,Q63387623,way
 Buschriede,wikidata,,Q1434274,way
 Bussardweg,wikidata,,Q235152,way
-"Büteroder Weg",wikidata,,Q350895,way
 Bütersworthstraße,wikidata,,Q98446804,way
 Butjerbrunnenplatz,wikidata,,Q117323107,way
 "CC Arcaden",wikidata,,Q1378975,way
@@ -450,7 +450,7 @@ Erikaweg,wikidata,,Q206998,way
 Erlenstieg,wikidata,,Q25239,way
 Erlenweg,wikidata,,Q25239,way
 Eschenplan,wikidata,,Q128887,way
-Escherstraße,wikidata,,Q31842245,way
+Escherstraße,wikidata,,Q15906333,way
 Espenhof,wikidata,,Q146110,way
 Esperantostraße,wikidata,,Q143,way
 "Essener Straße",wikidata,,Q2066,way
@@ -552,7 +552,7 @@ Gödekeweg,wikidata,,Q16746939,way
 "Godshorner Damm",wikidata,,Q1533915,way
 Göhrdestraße,wikidata,,Q541647,way
 Goldmarieweg,wikidata,,Q98699810,way
-Goldrutenweg,wikidata,,Q212939,way
+Goldrutenweg,wikidata,,Q212939;Q2265252,way
 Gölenkamp,wikidata,,Q624634,way
 "Görlitzer Hof",wikidata,,Q4077,way
 "Goslarsche Straße",wikidata,,Q3896,way
@@ -1136,6 +1136,7 @@ Planetenring,wikidata,,Q15853610,way
 Platanenhof,wikidata,,Q163025,way
 "Platz an der Basilika",wikidata,,Q810108,relation
 "Platz der Göttinger Sieben",wikidata,,Q632130,relation
+"Platz der Klein-Buchholzer Bürger",wikidata,,Q1746193;Q1020994,way
 "Platz der Weltausstellung",wikidata,,Q734463,way
 "Plauener Straße",wikidata,,Q3952,way
 Plinkestraße,wikidata,,Q98298501,way
@@ -1229,7 +1230,6 @@ Rudolfstraße,wikidata,,Q18028491,way
 "Rue de Gent",wikidata,,Q1296,way
 "Rügener Straße",wikidata,,Q3237,way
 Rumpelstilzchenweg,wikidata,,Q322188,way
-Rut-und-Klaus-Bahlsen-Weg,wikidata,,,way
 Rüterwiese,wikidata,,Q1434274,way
 Saaleweg,wikidata,,Q1678,way
 "Saarbrückener Straße",wikidata,,Q1724,way
@@ -1672,6 +1672,7 @@ Amselweg,,,,way
 "An den Föhren",,,,way
 "An den Maschwiesen",,,,way
 "An der Bues",,,,way
+"An der Eisenbahn",,,,way
 "An der Engesohde",,,,relation
 "An der Feldmark",,,,way
 "An der Feuerstelle",,,,way
@@ -1773,13 +1774,14 @@ Bruchweg,,,,way
 Brühlstraße,,,,way
 Brunnenstieg,,,,way
 Brunnenstraße,,,,way
+"Brunnentreff Mittelfeld",,,,way
 Buchenweg,,,,way
 Bummelgang,,,,way
 Bünteweg,,,,way
 Burgstraße,,,,relation
 Bürogasse,,,,way
 Buxusgang,,,,way
-Conrad-Bube-Weg,,,,relation
+Caroline-von-Bremer-Straße,,,,way
 Cook-Passage,,,,way
 Cousteaustraße,,,,way
 Crystallstraße,,,,way
@@ -1809,6 +1811,7 @@ Dreibirkenweg,,,,way
 Dreikreuzenstraße,,,,way
 Drossel-Allee,,,,way
 Drosselgang,,,,way
+Drostestr,,,,way
 Dunkelberggang,,,,way
 Düsternstraße,,,,way
 Eckerstraße,,,,way
@@ -1823,7 +1826,6 @@ Elmweg,,,,way
 Elsternweg,,,,way
 Elsterweg,,,,way
 Ema-Mohr-Straße,,,,way
-Emil-Schorsch-Platz,,,,relation
 "Engelborsteler Damm",,,,way
 Entenfangweg,,,,way
 Entenweg,,,,way
@@ -2015,10 +2017,10 @@ Immergrün,,,,way
 "In der Reuterwiese",,,,way
 "In der Steintormasch",,,,way
 Innenhof,,,,way
+Iris-Runge-Platz,,,,way
 Jägerstieg,,,,way
 Jägerstraße,,,,way
 Jakobsweg,,,,way
-Johannishof,,,,way
 Jörnshof,,,,way
 Jungfernstieg,,,,way
 "KGV Feierabend Erlenweg",,,,way
@@ -2105,7 +2107,7 @@ Limburg-Passage,,,,way
 Lindenplan,,,,way
 "Lister Damm",,,,way
 "Lister Kirchweg",,,,way
-"Lister Meile",,,,way
+"Lister Meile",,,,relation+way
 "Lister Passage",,,,way
 "Lister Straße",,,,way
 Lister-Meilen-Passage,,,,way
@@ -2133,6 +2135,7 @@ Meisen-Allee,,,,way
 Meisenweg,,,,way
 Mengendamm,,,,way
 Messeschnellweg,,,,way
+"Messeschnellweg Ost",,,,way
 "Messeschnellweg West",,,,way
 Meterstraße,,,,way
 Meyenfeldstraße,,,,way
@@ -2201,7 +2204,6 @@ Philosophenpfad,,,,way
 Pieperstraße,,,,way
 Plantagenstraße,,,,way
 "Platz der Begegnung",,,,way
-"Platz der Klein-Buchholzer Bürger",,,,way
 "Platz der Meck­len­bur­gi­schen",,,,way
 Plengestraße,,,,way
 Podbipassage,,,,way
@@ -2223,6 +2225,7 @@ Querweg,,,,way
 Quesenbühlsgang,,,,way
 Quirrestraße,,,,way
 Quittenweg,,,,way
+Rabbiner-Dr.-Emil-Schorsch-Platz,,,,relation
 Rabenstieg,,,,way
 Rabenwinkel,,,,way
 Rahlfskamp,,,,way
@@ -2284,13 +2287,11 @@ Schloßbrücke,,,,way
 "Schloßwender Straße",,,,way
 Schneckenweg,,,,way
 Schreberweg,,,,way
-Schubertsraße,,,,way
-Schulhof,,,,way
 Schulweg,,,,way
 Schulzenstraße,,,,way
 Schützenhausweg,,,,way
+"Schützenplatz Misburg",,,,way
 Schützenstraße,,,,way
-Schwanenburg,,,,way
 "Schwarzenberger Weg",,,,way
 "Schwarzer Bär",,,,way
 Schwedenpfad,,,,way
@@ -2349,6 +2350,8 @@ Struthofstraße,,,,way
 Stuckestraße,,,,way
 Stünkelstraße,,,,way
 Sudersenstraße,,,,way
+"Südschnellweg (Behelfsbrücke)",,,,way
+"Südschnellweg (Behelfsstrecke)",,,,way
 Sündernstraße,,,,way
 Süntelweg,,,,way
 Suthwiesenstraße,,,,way
@@ -2426,6 +2429,7 @@ Wiesenstraße,,,,way
 Wiesenweg,,,,way
 Wildthagenweg,,,,way
 Wildwechsel,,,,way
+"Wilhelm Stichweh-Platz",,,,way
 Wilkeninghof,,,,way
 Willführstraße,,,,way
 Windmühlenstraße,,,,way
