@@ -637,6 +637,7 @@ Heinersdorfweg,wikidata,,Q693540,way
 "Heiseder Straße",wikidata,,Q1601302,way
 "Heitlinger Hof",wikidata,,Q17322211,way
 "Heitlinger Straße",wikidata,,Q17322211,way
+Helene-Weber-Brücke,wikidata,,Q1616278,way
 "Helgoländer Straße",wikidata,,Q3129772,way
 Hellenkamp,wikidata,,Q1434274,way
 "Helmstedter Straße",wikidata,,Q486562,way
@@ -729,8 +730,8 @@ Illerweg,wikidata,,Q159467,way
 "Im Moore",wikidata,,Q1434274,relation
 "Im Myrtenkranz",wikidata,,Q6122027,way
 "Im Othfelde",wikidata,,Q1434274,way
+"Im Othfelde 59",wikidata,,Q1434274,way
 "Im Othfelde 62 / Fliederweg",wikidata,,Q1434274,way
-"Im Othfelde 63",wikidata,,Q1434274,way
 "Im Othfelde 65",wikidata,,Q1434274,way
 "Im Othfelde 67",wikidata,,Q1434274,way
 "Im Othfelde 69",wikidata,,Q1434274,way
@@ -1858,6 +1859,11 @@ Fliederweg,,,,way
 Flohrgang,,,,way
 Floraweg,,,,way
 Flügeldamm,,,,way
+"Flur EG",,,,way
+"Flur EG Ost",,,,way
+"Flur EG West",,,,way
+"Flur UG Nord",,,,way
+"Flur UG Süd",,,,way
 Flurstraße,,,,way
 Föhrenweg,,,,way
 Försterweg,,,,way
@@ -2017,7 +2023,6 @@ Immergrün,,,,way
 "In der Masch",,,,way
 "In der Reuterwiese",,,,way
 "In der Steintormasch",,,,way
-Innenhof,,,,way
 Iris-Runge-Platz,,,,way
 Jägerstieg,,,,way
 Jägerstraße,,,,way
@@ -2077,6 +2082,7 @@ Küsterstraße,,,,way
 Kütemeierweg,,,,way
 Labyrinthweg,,,,way
 Ladenpassage,,,,way
+Laderampe,,,,way
 Lagerstraße,,,,way
 "Laher Heide",,,,way
 "Laher Kamp",,,,way
@@ -2233,6 +2239,7 @@ Rabbiner-Dr.-Emil-Schorsch-Platz,,,,relation
 Rabenstieg,,,,way
 Rabenwinkel,,,,way
 Rahlfskamp,,,,way
+Rampe,,,,way
 Rathenauplatz,,,,relation
 Rathingstraße,,,,way
 Ratswiese,,,,way
@@ -2261,6 +2268,7 @@ Rodelbahn,,,,way
 Rodewaldstraße,,,,way
 Rodewinkel,,,,way
 Röhrbeinweg,,,,way
+Rollstuhlrampe,,,,way
 Roschersburg,,,,way
 Röselerstraße,,,,way
 Rosemeyerstraße,,,,way
@@ -2361,6 +2369,7 @@ Sündernstraße,,,,way
 Süntelweg,,,,way
 Suthwiesenstraße,,,,way
 Taubengang,,,,way
+Tegtmeyershof,,,,way
 Teichhöfe,,,,way
 Teichpfade,,,,way
 Teichstraße,,,,way
@@ -2375,6 +2384,8 @@ Trage,,,,way
 Trageweg,,,,way
 Trassenweg,,,,way
 "Treppe zur Leinewelle",,,,way
+Treppenhaus,,,,way
+"Treppenhaus UG",,,,way
 Treptowweg,,,,way
 Trollweg,,,,way
 Ubbenstraße,,,,way
@@ -2398,6 +2409,7 @@ Vollmond,,,,way
 Voltmerstraße,,,,way
 Von-Escherte-Straße,,,,way
 "Vordere Schöneworth",,,,way
+Vorplatz,,,,way
 Wacholderweg,,,,way
 Waldchaussee,,,,way
 Waldmops-Weg,,,,way
