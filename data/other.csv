@@ -1,7 +1,6 @@
 name,source,gender,wikidata,type
 Aegidiendamm,,,,way
 "Ahlemer Waldstraße",,,,way
-Ahornweg,,,,way
 Akazienweg,,,,way
 Alfred-Müller-Weg,,,,way
 Allerweg,,,,way
@@ -28,13 +27,11 @@ Alterwiesen,,,,way
 "Am Dunstmoor",,,,way
 "Am Echteweck",,,,way
 "Am Edelhofe",,,,way
-"Am Ententeich",,,,way
 "Am Fasanenbusch",,,,way
 "Am Finkenherd",,,,way
 "Am Flachsgraben",,,,way
 "Am Freihof",,,,way
 "Am Gernsschen Acker",,,,way
-"Am Graben",,,,way
 "Am Graswege",,,,way
 "Am Grünstreifen",,,,way
 "Am Gutspark",,,,way
@@ -65,16 +62,14 @@ Alterwiesen,,,,way
 "Am TÜV",,,,way
 "Am Tannenkamp",,,,way
 "Am Taubenfelde",,,,way
-"Am Teich",,,,way
 "Am Urnenfeld",,,,way
 "Am Wäldchen",,,,way
 "Am Waldesrand",,,,way
-"Am Wasser",,,,way
 "Am Westschnellweg",,,,way
 "Am Wiesengarten",,,,way
 "Am Wildpfad",,,,way
 "Am Wolfsgraben",,,,way
-Amsel-Allee,,,,way
+Amselallee,,,,way
 Amselweg,,,,way
 "An Mußmanns Haube",,,,way
 "An den Föhren",,,,way
@@ -111,7 +106,6 @@ Atelierblick,,,,way
 "Auf der Klappenburg",,,,way
 "Auf der Papenburg",,,,way
 Augustabrücke,,,,way
-Azaleenweg,,,,way
 Bäckerstraße,,,,way
 "Badenstedter Marktplatz",,,,way
 Baierweg,,,,way
@@ -219,7 +213,7 @@ Dormannstraße,,,,way
 Drachenfeld,,,,way
 Dreibirkenweg,,,,way
 Dreikreuzenstraße,,,,way
-Drossel-Allee,,,,way
+Drosselallee,,,,way
 Drosselgang,,,,way
 Drostestr,,,,way
 Dunkelberggang,,,,way
@@ -229,11 +223,9 @@ Ehlershausen,,,,way
 Ehlvershof,,,,way
 Eichelkampstraße,,,,way
 Eichenfeldstraße,,,,way
-Eichhörnchenweg,,,,way
 Elisenstraße,,,,way
 Elkartallee,,,,relation
 Elmweg,,,,way
-Elsternweg,,,,way
 Elsterweg,,,,way
 Ema-Mohr-Straße,,,,way
 Entenfangweg,,,,way
@@ -244,7 +236,6 @@ Erdbeerenweg,,,,way
 Erdbeerweg,,,,way
 Erholung,,,,way
 Erich-Marx-Weg,,,,way
-Erika,,,,way
 Erlengrund,,,,way
 Ernst-August-Markthalle,,,,way
 Ernst-Gehrke-Weg,,,,way
@@ -258,14 +249,12 @@ Ferdinandstraße,,,,way
 "Fernroder Straße",,,,way
 Fichtenallee,,,,way
 Fichtenweg,,,,way
-Finken-Allee,,,,way
 Finkenweg,,,,way
 Fischereichenweg,,,,way
 Fischerhof,,,,way
 Flebbeweg,,,,way
 Fliederweg,,,,way
-"Fliegerlust 1",,,,way
-"Fliegerlust 2",,,,way
+Flinkenallee,,,,way
 Flohrgang,,,,way
 Floraweg,,,,way
 Flügeldamm,,,,way
@@ -281,6 +270,7 @@ Forsytienweg,,,,way
 Franz-Heppler-Weg,,,,way
 Franz-Mock-Weg,,,,way
 Franz-Steineke-Weg,,,,way
+Franzstraße,,,,way
 Freidingstraße,,,,way
 "Friedenauer Straße",,,,way
 Friederikenbrücke,,,,way
@@ -333,7 +323,6 @@ Gronostraße,,,,way
 "Großer Kolonnenweg",,,,way
 Günschmannweg,,,,way
 Günter-Politze-Straße,,,,way
-"Gut Grün",,,,way
 Gutsweg,,,,way
 HDI-Platz,,,,way
 Haarstraße,,,,way
@@ -365,8 +354,6 @@ Hauptstraße,,,,way
 Hauptweg,,,,way
 Heesternwinkel,,,,way
 Hegebläch,,,,way
-Heideblümchen,,,,way
-Heideblüte,,,,way
 Heidegrün,,,,way
 Heideweg,,,,way
 Heidornstraße,,,,way
@@ -395,7 +382,6 @@ Hogrefestraße,,,,way
 "Hoher Weg",,,,way
 Holleweg,,,,way
 Höltyplatz,,,,way
-Holunderweg,,,,way
 Holzmarkt,,,,way
 Holzrehre,,,,way
 Holzstraße,,,,way
@@ -424,7 +410,6 @@ Ihtweg,,,,way
 "Im Winkel",,,,way
 "Im stillen Winkel",,,,way
 Immelmannstraße,,,,way
-Immergrün,,,,way
 "In den Gärten",,,,way
 "In den Heestern",,,,way
 "In den Kämpen",,,,way
@@ -446,7 +431,7 @@ Karpfenweg,,,,way
 Katzengang,,,,way
 Katzenstieg,,,,way
 Kelbshof,,,,way
-Kiebitz-Allee,,,,way
+Kiebitzallee,,,,way
 Kiebitzecke,,,,way
 Kiebitzweg,,,,way
 Kiefernweg,,,,way
@@ -514,7 +499,7 @@ Leinerandweg,,,,way
 Leipzigweg,,,,way
 "Lemförder Straße",,,,way
 Lenchen-Kunow-Weg,,,,way
-Lerchen-Allee,,,,way
+Lerchenallee,,,,way
 Lerchenweg,,,,way
 Leynemannweg,,,,way
 Liepeweg,,,,way
@@ -552,6 +537,7 @@ Mathildenstraße,,,,way
 Mattfeldstraße,,,,way
 Mehlstraße,,,,way
 Meisen-Allee,,,,way
+Meisenallee,,,,way
 Meisenweg,,,,way
 Mengendamm,,,,way
 Messeschnellweg,,,,way
@@ -559,11 +545,9 @@ Messeschnellweg,,,,way
 "Messeschnellweg West",,,,way
 Meterstraße,,,,way
 Meyenfeldstraße,,,,way
-Mibellenweg,,,,way
 Mira-Lobe-Weg,,,,way
 Mirabellenweg,,,,way
 "Misburger Straße",,,,way
-Mistelweg,,,,way
 Mittelhalle,,,,relation
 Mittelstraße,,,,way
 Mittelweg,,,,way
@@ -631,9 +615,6 @@ Poggenkamp,,,,way
 Posenweg,,,,way
 Posthornstraße,,,,way
 Postkamp,,,,way
-"Postkamp 1",,,,way
-"Postkamp 2",,,,way
-"Postkamp 3",,,,way
 Potthof,,,,way
 Primelweg,,,,way
 "Promenade im Hauptbahnhof",,,,way
@@ -644,7 +625,6 @@ Querwande,,,,way
 Querweg,,,,way
 Quesenbühlsgang,,,,way
 Quirrestraße,,,,way
-Quittenweg,,,,way
 Rabbiner-Dr.-Emil-Schorsch-Platz,,,,relation
 Rabenstieg,,,,way
 Rabenwinkel,,,,way
@@ -684,7 +664,6 @@ Röselerstraße,,,,way
 Rosemeyerstraße,,,,way
 Rosenallee,,,,way
 Rosenfeststraße,,,,way
-Rosenhain,,,,way
 Rosmarinhof,,,,way
 Roßmühle,,,,way
 Rotbuchenallee,,,,way
@@ -698,12 +677,10 @@ Saldernstraße,,,,way
 Sallplatz,,,,way
 Sallstraße,,,,way
 Sandbrink,,,,way
-Sanddornweg,,,,way
 Schaukelweg,,,,way
 Scheelenkamp,,,,way
 Scheidestraße,,,,way
 Scherensliepergang,,,,way
-Schilfweg,,,,way
 Schloßbrücke,,,,way
 "Schloßwender Straße",,,,way
 Schneckenweg,,,,way
@@ -734,7 +711,6 @@ Sonnenallee,,,,way
 Sonneneck,,,,way
 Sonnenhagen,,,,way
 Sonnenlandbrücke,,,,way
-Sonnenschein,,,,way
 Sonnenweg,,,,way
 Sorgenfrei,,,,way
 Sorststraße,,,,way
@@ -743,7 +719,6 @@ Spannhagengarten,,,,way
 Spargelweg,,,,way
 Spartanerstraße,,,,way
 "Späte Holzwiesen",,,,way
-Spatzen-Allee,,,,way
 Spatzenweg,,,,way
 Spechtgasse,,,,way
 Sperlstraße,,,,way
@@ -753,7 +728,7 @@ Stadtfelddamm,,,,way
 Stahlstraße,,,,way
 Stammestraße,,,,way
 Stänkebühlsgang,,,,way
-Staren-Allee,,,,way
+Starenallee,,,,way
 Starweg,,,,way
 Steckerstraße,,,,way
 Steinstraße,,,,way
@@ -766,7 +741,6 @@ Stieglitzweg,,,,way
 Stiftstraße,,,,way
 "Stilles Tal",,,,way
 Storchgang,,,,way
-"Strandrose 2",,,,way
 Streitäckergraben,,,,way
 Struthofstraße,,,,way
 Stuckestraße,,,,way
@@ -784,12 +758,10 @@ Teichpfade,,,,way
 Teichstraße,,,,way
 Terrassen,,,,way
 Tewesweg,,,,way
-Thielenkamp,,,,way
 Timmermannweg,,,,way
 "Tischlein Deck Dich Weg",,,,way
 Tomatenweg,,,,way
 Tonstraße,,,,way
-Trage,,,,way
 Trageweg,,,,way
 Trassenweg,,,,way
 "Treppe zur Leinewelle",,,,way
@@ -803,7 +775,6 @@ Uhlenbornstraße,,,,way
 Uhugasse,,,,way
 Ulenflucht,,,,way
 Ulrichstraße,,,,way
-"Unter Uns",,,,way
 Vahrenheide,,,,way
 Veilchenstraße,,,,way
 Veilchenweg,,,,way
@@ -819,7 +790,6 @@ Voltmerstraße,,,,way
 Von-Escherte-Straße,,,,way
 "Vordere Schöneworth",,,,way
 Vorplatz,,,,way
-Wacholderweg,,,,way
 Waldchaussee,,,,way
 Waldmops-Weg,,,,way
 Waldweg,,,,way
@@ -835,7 +805,6 @@ Wefelsestraße,,,,way
 "Weg 2",,,,way
 "Weg 3",,,,way
 Weidengrundbrücke,,,,way
-Weidenweg,,,,way
 Weidestraße,,,,way
 Weidetorkreisel,,,,way
 Weidetorstraße,,,,way
@@ -883,4 +852,3 @@ Zigelskyweg,,,,way
 "Zur Stadtgärtnerei",,,,way
 "Zur Tanne",,,,way
 "Zur Viehtränke",,,,way
-"Zur guten Hoffnung",,,,way
