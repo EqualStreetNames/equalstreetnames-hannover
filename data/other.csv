@@ -223,6 +223,7 @@ Ehlershausen,,,,way
 Ehlvershof,,,,way
 Eichelkampstraße,,,,way
 Eichenfeldstraße,,,,way
+Eisteichweg,,,,way
 Elisenstraße,,,,way
 Elkartallee,,,,relation
 Elmweg,,,,way
@@ -336,7 +337,6 @@ Hahnensteg,,,,way
 Hahnenstraße,,,,relation
 Hainbuchenallee,,,,way
 Halberstadtweg,,,,way
-"Halle 8",,,,way
 Hammet-und-Hassan-Weg,,,,way
 Hamsterweg,,,,way
 Hangstraße,,,,way
@@ -364,9 +364,7 @@ Heimweg,,,,way
 "Heinescher Hof",,,,way
 Heinz-Boldt-Weg,,,,way
 Heisterbergallee,,,,way
-Heisterholzwinkel,,,,way
 Helenenstieg,,,,way
-Helga-Heine-Ring,,,,way
 Helmkestraße,,,,way
 "Hemminger Kirchweg",,,,way
 Hermenweg,,,,way
@@ -424,7 +422,6 @@ Jägerstieg,,,,way
 Jägerstraße,,,,way
 Jakobsweg,,,,way
 Jungfernstieg,,,,way
-Jutta-Bleidissel-Weg,,,,way
 "KGV Feierabend Erlenweg",,,,way
 "KGV Krügersruh, Maiblumenweg",,,,way
 Karl-Heinz-Berkowksy-Weg,,,,way
@@ -522,7 +519,6 @@ Lüdenstraße,,,,way
 Lüderitzwinkel,,,,way
 Ludwigstraße,,,,way
 Luhnenstraße,,,,way
-Luise-Burgstett-Wende,,,,way
 Lunapark,,,,way
 Lüssenhopstraße,,,,way
 Lützekenstraße,,,,way
@@ -530,7 +526,6 @@ Maiblumenweg,,,,way
 Märchenweg,,,,way
 Margeritenweg,,,,way
 Mariandelsteg,,,,way
-Marie-Radecki-Weg,,,,way
 Markt,,,,relation
 Marstall,,,,relation
 Maschpark-Brücke,,,,way
@@ -610,6 +605,7 @@ Pieperstraße,,,,way
 Plantagenstraße,,,,way
 "Platz der Begegnung",,,,way
 "Platz der Mecklenburgischen",,,,way
+"Platz der Nationen",,,,way
 Plengestraße,,,,way
 Podbipassage,,,,way
 Poggenkamp,,,,way
@@ -765,6 +761,7 @@ Tomatenweg,,,,way
 Tonstraße,,,,way
 Trageweg,,,,way
 Trassenweg,,,,way
+"Treppe Boxenkeller",,,,way
 "Treppe zur Leinewelle",,,,way
 Treppenhaus,,,,way
 "Treppenhaus UG",,,,way
@@ -848,7 +845,6 @@ Zigelskyweg,,,,way
 "Zum Waldteich",,,,way
 "Zum Wiehegraben",,,,way
 "Zum stillen Winkel",,,,way
-"Zur Mühle",,,,way
 "Zur Stadtgärtnerei",,,,way
 "Zur Tanne",,,,way
 "Zur Viehtränke",,,,way
