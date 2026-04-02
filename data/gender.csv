@@ -27,6 +27,7 @@ Allerstraße,wikidata,-,Q1967803,way
 Alt-Vinnhorst,wikidata,-,Q97763124,way
 "Alte Bemeroder Straße",wikidata,-,Q63139227,way
 "Alte Döhrener Straße",wikidata,-,Q8936588,way
+"Alte Gehägestraße",wikidata,-,Q1434274,way
 "Alte Heide",wikidata,-,Q1422560,way
 "Alte Herrenhäuser Straße",wikidata,-,Q63387763,way
 "Alte Kronsbergstraße",wikidata,-,Q166745,way
@@ -480,6 +481,7 @@ Fliederstraße,wikidata,-,Q157449,way
 Fliegerstraße,wikidata,-,Q42291231,way
 Flintweg,wikidata,-,Q83087,way
 Flöthwiesen,wikidata,-,Q1434274,way
+Flurstraße,wikidata,-,Q1434274,way
 Föhrenwinkel,wikidata,-,Q12024,way
 "Forbacher Straße",wikidata,-,Q81306,way
 Försterkamp,wikidata,-,Q1434274,way
@@ -729,7 +731,6 @@ Illerweg,wikidata,-,Q159467,way
 "Im Moore",wikidata,-,Q1434274,relation
 "Im Myrtenkranz",wikidata,-,Q6122027,way
 "Im Othfelde",wikidata,-,Q1434274,way
-"Im Othfelde 59",wikidata,-,Q1434274,way
 "Im Othfelde 62 / Fliederweg",wikidata,-,Q1434274,way
 "Im Othfelde 65",wikidata,-,Q1434274,way
 "Im Othfelde 67",wikidata,-,Q1434274,way
@@ -893,6 +894,7 @@ Kurze-Kamp-Straße,wikidata,-,Q1434274,way
 Laher-Feld-Straße,wikidata,-,Q1434274,way
 Lahwiesen,wikidata,-,Q1434274,way
 Landschaftstraße,wikidata,-,Q1026602,way
+"Lange Rade",wikidata,-,Q11334401,way
 Lange-Feld-Straße,wikidata,-,Q1434274,way
 Lange-Hop-Straße,wikidata,-,Q1434274,way
 Langensalzastraße,wikidata,-,Q535811,way
@@ -1005,7 +1007,7 @@ Milanstraße,wikidata,-,Q208342,way
 Milchgang,wikidata,-,Q8495,way
 "Militscher Weg",wikidata,-,Q717933,way
 Mirabellengarten,wikidata,-,Q149741,way
-"Misburger Straße",wikidata,-,Q1938597,way
+"Misburger Straße",wikidata,-,Q138033717,way
 Mispelweg,wikidata,-,Q146186,way
 Möckernstraße,wikidata,-,Q1497923,way
 Moldauweg,wikidata,-,Q131574,way
@@ -1132,7 +1134,7 @@ Pinocchioweg,wikidata,-,Q6502703,way
 Pirolweg,wikidata,-,Q25388,way
 Planetenring,wikidata,-,Q15853610,way
 Platanenhof,wikidata,-,Q163025,way
-"Platz an der Basilika",wikidata,-,Q810108,relation
+"Platz an der Basilika",wikidata,-,Q810108,way
 "Platz der Göttinger Sieben",wikidata,-,Q632130,relation
 "Platz der Klein-Buchholzer Bürger",wikidata,-,Q1746193;Q1020994,way
 "Platz der Weltausstellung",wikidata,-,Q734463,way
@@ -1198,6 +1200,7 @@ Rodbraken,wikidata,-,Q1434274,way
 Rodenstraße,wikidata,-,Q1541453,way
 Roderbruchmarkt,wikidata,-,Q2161041,way
 Roderbruchstraße,wikidata,-,Q2161041,way
+Rodewinkel,wikidata,-,Q1434274,way
 Röhrichtweg,wikidata,-,Q1434274,way
 Rohrskamp,wikidata,-,Q1434274,way
 Rominteweg,wikidata,-,Q741927,way
@@ -1748,6 +1751,7 @@ Margot-Matthias-Straße,wikidata,F,Q98381733,way
 Maria-Caspar-Filser-Straße,wikidata,F,Q545965,way
 Maria-Montessori-Weg,wikidata,F,Q131117,way
 Maria-Suszyńska-Bartmann-Weg,wikidata,F,Q98280492,way
+Maria-Telkes-Platz,wikidata,F,Q7415,way
 Marianne-Adrian-Weg,wikidata,F,Q98603257,way
 Marianne-Baecker-Allee,wikidata,F,Q1495270,way
 Marie-Jahn-Straße,wikidata,F,Q17747751,way
@@ -1967,7 +1971,6 @@ Claudiusstraße,wikidata,M,Q77338,way
 Clausewitzstraße,wikidata,M,Q76430,way
 Comeniusstraße,wikidata,M,Q12735,way
 Conrad-Bube-Weg,wikidata,M,Q1126681,way
-Conrad-Wilhelm-Hase-Platz,wikidata,M,Q95970,relation
 Constantinstraße,wikidata,M,Q111728618,way
 Corinthstraße,wikidata,M,Q157610,way
 Corneliusstraße,wikidata,M,Q58833,way
@@ -2677,7 +2680,7 @@ Sankt-Eugenius-Weg,wikidata,M,Q199498,way
 Sauerweinstraße,wikidata,M,Q77199,way
 Schachtebeckweg,wikidata,M,Q108380675,way
 Schackstraße,wikidata,M,Q50361544,way
-Schaperplatz,wikidata,M,Q98811683,relation+way
+Schaperplatz,wikidata,M,Q98811683,way
 Scharnhorststraße,wikidata,M,Q170340,way
 Scharnikaustraße,wikidata,M,Q1505835,way
 Schaumburgstraße,wikidata,M,Q1446464,way
