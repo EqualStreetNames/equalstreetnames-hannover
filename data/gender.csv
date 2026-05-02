@@ -1,4 +1,5 @@
 name,source,gender,wikidata,type
+Rut-und-Klaus-Bahlsen-Weg,wikidata,+,Q1238540;Q1744878,way
 "Aachener Straße",wikidata,-,Q1017,way
 Aalborghof,wikidata,-,Q25410,way
 Aarhushof,wikidata,-,Q25319,way
@@ -1604,7 +1605,6 @@ Heinrichstraße,wikidata,?,Q2018484;Q98446577,way
 Hofackerstraße,wikidata,?,Q1434274;Q70703,way
 Karlstraße,wikidata,?,Q15731830;Q97979686,way
 "Platz der Menschenrechte",wikidata,?,Q1599069;Q8458,relation+way
-Rut-und-Klaus-Bahlsen-Weg,wikidata,?,;Q1238540;Q1744878,way
 Weberstraße,wikidata,?,Q154812;Q1815315,way
 Wilhelmstraße,wikidata,?,Q11027623;Q130822,way
 Ada-Lessing-Straße,wikidata,F,Q346156,way
@@ -1727,6 +1727,7 @@ Käthe-Steinitz-Straße,wikidata,F,Q6567261,way
 Käthe-Vordtriede-Weg,wikidata,F,Q1795558,way
 Katrin-Sello-Weg,wikidata,F,Q1736752,way
 Kirchnerweg,wikidata,F,Q87358,way
+Lenchen-Kunow-Weg,wikidata,F,Q2755765,way
 Lieselotte-Rogge-Straße,wikidata,F,Q97482186,way
 Lilli-Friedemann-Ring,wikidata,F,Q19513371,way
 Lina-Hähnle-Weg,wikidata,F,Q1825635,way
