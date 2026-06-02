@@ -67,10 +67,12 @@ Altmarkhof,wikidata,-,Q442655,way
 "Am Fahrhorstfelde",wikidata,-,Q1434274,way
 "Am Flöth",wikidata,-,Q110143760,way
 "Am Forstkamp",wikidata,-,Q1416616,way
+"Am Freihof",wikidata,-,Q4404694,way
 "Am Friedenstal",wikidata,-,Q20683728,way
 "Am Fuhrenkampe",wikidata,-,Q1434274,way
 "Am Gänsebusch",wikidata,-,Q1434274,way
 "Am Gehrlskamp",wikidata,-,Q1434274,way
+"Am Gernsschen Acker",wikidata,-,Q1434274,way
 "Am Ginsterbusch",wikidata,-,Q156696,way
 "Am Großen Garten",wikidata,-,Q1416462,way
 "Am Großen Kampe",wikidata,-,Q1434274,way
@@ -100,6 +102,7 @@ Altmarkhof,wikidata,-,Q442655,way
 "Am Kläperberg",wikidata,-,Q19798648,way
 "Am Kronsberg",wikidata,-,Q166745,way
 "Am Küchengarten",wikidata,-,Q624114,way
+"Am Laher Graben",wikidata,-,Q124030968,way
 "Am Landwehrgraben",wikidata,-,Q661908,way
 "Am Langen Berge",wikidata,-,Q1434274,way
 "Am Langen Kampe",wikidata,-,Q1434274,way
@@ -312,7 +315,6 @@ Brockenweg,wikidata,-,Q155721,way
 Brockfeld,wikidata,-,Q1434274,way
 "Bromberger Straße",wikidata,-,Q41252,way
 Bruchmeisterallee,wikidata,-,Q992013,way
-"Brücke Bischofshol",wikidata,-,Q54189788,way
 Brückstraße,wikidata,-,Q12280,way
 Brüder-Grimm-Weg,wikidata,-,Q2793,way
 Brüderstraße,wikidata,-,Q45710336,way
@@ -482,6 +484,7 @@ Fliederstraße,wikidata,-,Q157449,way
 Fliegerstraße,wikidata,-,Q42291231,way
 Flintweg,wikidata,-,Q83087,way
 Flöthwiesen,wikidata,-,Q1434274,way
+Flügeldamm,wikidata,-,Q106615222,way
 Flurstraße,wikidata,-,Q1434274,way
 Föhrenwinkel,wikidata,-,Q12024,way
 "Forbacher Straße",wikidata,-,Q81306,way
@@ -562,6 +565,7 @@ Grabenweg,wikidata,-,Q192810,way
 Granitweg,wikidata,-,Q41177,way
 "Grasdorfer Straße",wikidata,-,Q1543421,way
 Grasekamp,wikidata,-,Q1434274,way
+Grashöfe,wikidata,-,Q1434274,way
 "Graudenzer Weg",wikidata,-,Q123511,way
 "Gravensteiner Allee",wikidata,-,Q489226,way
 "Grazer Straße",wikidata,-,Q13298,way
@@ -635,6 +639,7 @@ Heiligengeiststraße,wikidata,-,Q19285085,way
 Heimburgstraße,wikidata,-,Q1595734,way
 Heimstraße,wikidata,-,Q1307276,way
 Heinersdorfweg,wikidata,-,Q693540,way
+"Heinescher Hof",wikidata,-,Q2887356,way
 "Heiseder Straße",wikidata,-,Q1601302,way
 Heisterholzwinkel,wikidata,-,Q1434274,way
 "Heitlinger Hof",wikidata,-,Q17322211,way
@@ -1520,6 +1525,7 @@ Welfengarten,wikidata,-,Q2557511,way
 Welfenstraße,wikidata,-,Q156433,way
 "Welkersdorfer Weg",wikidata,-,Q2178471,way
 Weltausstellungsallee,wikidata,-,Q734463,way
+Wendehagen,wikidata,-,Q1434274,way
 "Wenderoder Weg",wikidata,-,Q42313210,way
 "Wendersche Goge",wikidata,-,Q1434274,way
 "Wennigser Straße",wikidata,-,Q621469,way
@@ -2011,6 +2017,7 @@ Dietger-Ederhof-Weg,wikidata,M,Q100079045,way
 Dietrich-Kittner-Platz,wikidata,M,Q1223883,way
 Dingelstedtstraße,wikidata,M,Q64370,way
 Dittmerstraße,wikidata,M,Q108816322,way
+Döbbeckehof,wikidata,M,Q139792922,way
 "Dohmeyers Weg",wikidata,M,Q110234059,way
 Dohnanyiweg,wikidata,M,Q63470,way
 Domagkweg,wikidata,M,Q57192,way
@@ -2838,7 +2845,7 @@ Voltastraße,wikidata,M,Q680,way
 Von-der-Decken-Straße,wikidata,M,Q1733717,way
 Vormbrockweg,wikidata,M,Q1599144,way
 Voßstraße,wikidata,M,Q62188,way
-WP-Eberhard-Eggers-Platz,wikidata,M,Q23071363,way
+WP-Eberhard-Eggers-Platz,wikidata,M,Q23071363,relation+way
 Wackenroderstraße,wikidata,M,Q97980529,way
 Wagenerstraße,wikidata,M,Q110196646,way
 Wagenfeldstraße,wikidata,M,Q97441225,way

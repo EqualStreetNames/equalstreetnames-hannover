@@ -29,10 +29,7 @@ Alterwiesen,,,,way
 "Am Fasanenbusch",,,,way
 "Am Finkenherd",,,,way
 "Am Flachsgraben",,,,way
-"Am Freihof",,,,way
-"Am Gernsschen Acker",,,,way
 "Am Graswege",,,,way
-"Am Grünstreifen",,,,way
 "Am Gutspark",,,,way
 "Am Hinüberschen Garten",,,,way
 "Am Hofs Meisterwinkel",,,,way
@@ -44,7 +41,6 @@ Alterwiesen,,,,way
 "Am Kalkbruche",,,,way
 "Am Kanonenwall",,,,way
 "Am Kleinen Felde",,,,relation
-"Am Laher Graben",,,,way
 "Am Lebersood",,,,way
 "Am Lindener Volkspark",,,,way
 "Am Listholze",,,,way
@@ -54,6 +50,7 @@ Alterwiesen,,,,way
 "Am Reitplatz",,,,way
 "Am Rohfeld",,,,way
 "Am Schmuckplatz",,,,way
+"Am Spielplatz",,,,way
 "Am Sportplatz",,,,way
 "Am Steintor",,,,relation
 "Am Strande",,,,way
@@ -109,6 +106,7 @@ Bäckerstraße,,,,way
 "Badenstedter Marktplatz",,,,way
 Baierweg,,,,way
 Balkehof,,,,way
+Bandelplatz,,,,way
 Bärengang,,,,way
 Bärenpfad,,,,way
 Bauerngrabenweg,,,,way
@@ -198,7 +196,6 @@ Deitersweg,,,,way
 "Denkmal KZ-Stöcken Hannover-Marienwerder",,,,way
 "Die blaue Brücke",,,,way
 Dieckbornstraße,,,,way
-Döbbeckehof,,,,way
 Döbbeckestraße,,,,way
 "Döhrener Aue",,,,way
 "Döhrener Brücke",,,,way
@@ -222,6 +219,7 @@ Ehlershausen,,,,way
 Ehlvershof,,,,way
 Eichelkampstraße,,,,way
 Eichenfeldstraße,,,,way
+"Eingang Schwimmhalle / Kegelbahn",,,,way
 Eisteichweg,,,,way
 Elisenstraße,,,,way
 Elkartallee,,,,relation
@@ -257,7 +255,6 @@ Fliederweg,,,,way
 Flinkenallee,,,,way
 Flohrgang,,,,way
 Floraweg,,,,way
-Flügeldamm,,,,way
 "Flur EG",,,,way
 "Flur EG Ost",,,,way
 "Flur EG West",,,,way
@@ -281,6 +278,7 @@ Fuderhof,,,,way
 Fuhrenplan,,,,way
 Fundstraße,,,,way
 Funkenkamp,,,,way
+"Fußweg Dorfstraße",,,,way
 "G. Niehoff-Weg",,,,way
 Gartenweg,,,,way
 Geisterweg,,,,way
@@ -305,7 +303,6 @@ Goseriedeplatz,,,,way
 Gosewischstraße,,,,way
 "Göttinger Landstraße",,,,way
 Grambartstraße,,,,way
-Grashöfe,,,,way
 Grasweg,,,,way
 Gredelhof,,,,way
 Greitheweg,,,,way
@@ -349,6 +346,9 @@ Hasengang,,,,way
 Hasenpfad,,,,way
 Hasenweg,,,,way
 "Haspelfelder Weg",,,,way
+"Haupteingang DHV, BVN",,,,way
+"Haupteingang Haus zum Sonngarten",,,,way
+"Haupteingang Sporthalle",,,,way
 Hauptstraße,,,,way
 Hauptweg,,,,way
 Heesternwinkel,,,,way
@@ -359,7 +359,6 @@ Heidornstraße,,,,way
 Heimatweg,,,,way
 Heimstättenstraße,,,,way
 Heimweg,,,,way
-"Heinescher Hof",,,,way
 Heinz-Boldt-Weg,,,,way
 Heisterbergallee,,,,way
 Helenenstieg,,,,way
@@ -369,6 +368,7 @@ Hermenweg,,,,way
 Heymesstraße,,,,way
 Hildebrand-Weg,,,,way
 Himbeerweg,,,,way
+"Hinter der Sporthalle",,,,way
 Hintzehof,,,,way
 Hiroshimaweg,,,,way
 Höfestraße,,,,way
@@ -712,6 +712,7 @@ Spartanerstraße,,,,way
 "Späte Holzwiesen",,,,way
 Spatzenweg,,,,way
 Spechtgasse,,,,way
+Sperlinggasse,,,,way
 Sperlstraße,,,,way
 Spitzbubenstieg,,,,way
 Spitzwegweg,,,,way
@@ -796,12 +797,12 @@ Wefelsestraße,,,,way
 "Weg 1",,,,way
 "Weg 2",,,,way
 "Weg 3",,,,way
+"Weg zu Haus R",,,,way
 Weidengrundbrücke,,,,way
 Weidetorkreisel,,,,way
 Weidetorstraße,,,,way
 Weidewinkel,,,,way
 Weißekreuzstraße,,,,way
-Wendehagen,,,,way
 Werner-Bock-Weg,,,,way
 Wesselstraße,,,,way
 "Wettberger Edelhof",,,,way
@@ -830,12 +831,12 @@ Wöhlerstraße,,,,way
 Wulfspark,,,,way
 Zigelskyweg,,,,way
 "Zu den Mühlen",,,,way
-"Zugang zum Kleingartenverein Silberborn",,,,way
 "Zugang zum Restaurant Lehaha",,,,way
 "Zum Paradies",,,,way
 "Zum Rad",,,,way
 "Zum Schleusengrund",,,,way
 "Zum Siemenshop",,,,way
+"Zum Sportplatz",,,,way
 "Zum Waldteich",,,,way
 "Zum Wiehegraben",,,,way
 "Zum stillen Winkel",,,,way
