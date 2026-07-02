@@ -35,6 +35,7 @@ Alterwiesen,,,,way
 "Am Hofs Meisterwinkel",,,,way
 "Am Hohmannhof",,,,way
 "Am Holzgraben",,,,way
+"Am Ihmeufer",,,,way
 "Am Inselgraben",,,,way
 "Am Johannisbleek",,,,way
 "Am Jugendheim",,,,way
@@ -69,6 +70,7 @@ Amselallee,,,,way
 Amselweg,,,,way
 "An Mußmanns Haube",,,,way
 "An den Föhren",,,,way
+"An den Koppeln",,,,way
 "An den Maschwiesen",,,,way
 "An der Bues",,,,way
 "An der Eisenbahn",,,,way
@@ -180,7 +182,6 @@ Bünteweg,,,,way
 Burgstraße,,,,relation
 Bürogasse,,,,way
 Buxusgang,,,,way
-Caroline-von-Bremer-Straße,,,,way
 Cook-Passage,,,,way
 Cousteaustraße,,,,way
 Crystallstraße,,,,way
@@ -319,7 +320,6 @@ Gronostraße,,,,way
 "Große Table-Line",,,,way
 "Großer Kolonnenweg",,,,way
 Günschmannweg,,,,way
-Günter-Politze-Straße,,,,way
 Gutsweg,,,,way
 HDI-Platz,,,,way
 Haarstraße,,,,way
@@ -649,6 +649,7 @@ Robertstraße,,,,way
 Rodelbahn,,,,way
 Rodewaldstraße,,,,way
 Röhrbeinweg,,,,way
+Rollstuhl-Zufahrt,,,,way
 Rollstuhlrampe,,,,way
 Roschersburg,,,,way
 Röselerstraße,,,,way
@@ -739,7 +740,6 @@ Stuckestraße,,,,way
 Stünkelstraße,,,,way
 Sudersenstraße,,,,way
 "Südschnellweg (Behelfsbrücke)",,,,way
-"Südschnellweg (Behelfsstrecke)",,,,way
 Sündernstraße,,,,way
 Süntelweg,,,,way
 Suthwiesenstraße,,,,way
