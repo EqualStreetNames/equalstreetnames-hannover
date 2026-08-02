@@ -85,6 +85,7 @@ Altmarkhof,wikidata,-,Q442655,way
 "Am Heidehaus",wikidata,-,Q1718942,way
 "Am Heisterholze",wikidata,-,Q1434274,way
 "Am Herrenhäuser Bahnhof",wikidata,-,Q800887,way
+"Am Hinüberschen Garten",wikidata,-,Q1619891,way
 "Am Hirtenbach",wikidata,-,Q18625674,way
 "Am Hohen Ufer",wikidata,-,Q468756,relation+way
 "Am Holderbusch",wikidata,-,Q25662,way
@@ -627,6 +628,7 @@ Hasenwinkel,wikidata,-,Q1434274,way
 Havelweg,wikidata,-,Q1682,way
 Haverkamp,wikidata,-,Q1434274,way
 Heckenrosengang,wikidata,-,Q137608,way
+Hegebläch,wikidata,-,Q1434274,way
 Hegefeldstraße,wikidata,-,Q1434274,way
 Hegelstraße,wikidata,-,Q98793204,way
 Heidelbeerweg,wikidata,-,Q5079636,way
@@ -636,6 +638,7 @@ Heidjerhof,wikidata,-,Q97255127,way
 Heidkampsee,wikidata,-,Q106847176,way
 Heiligengeiststraße,wikidata,-,Q19285085,way
 "Heilsberger Weg",wikidata,-,Q751123,way
+Heimatweg,wikidata,-,Q562166,way
 Heimburgstraße,wikidata,-,Q1595734,way
 Heimstraße,wikidata,-,Q1307276,way
 Heinersdorfweg,wikidata,-,Q693540,way
@@ -1097,6 +1100,7 @@ Okerweg,wikidata,-,Q701512,way
 Oleanderweg,wikidata,-,Q155833,way
 Omptedastraße,wikidata,-,Q23672750,way
 Opernplatz,wikidata,-,Q315705,relation
+Orchideenweg,wikidata,-,Q25308,way
 Ortskamp,wikidata,-,Q1434274,way
 "Osnabrücker Straße",wikidata,-,Q2916,way
 Ostafrikastraße,wikidata,-,Q924,way
@@ -1113,6 +1117,7 @@ Ottweilerstraße,wikidata,-,Q562147,way
 Owiedenfeldstraße,wikidata,-,Q1434274,way
 "Paderborner Straße",wikidata,-,Q2971,way
 Pagenstraße,wikidata,-,Q21036590,way
+Palmstraße,wikidata,-,Q5526694,way
 Papenkamp,wikidata,-,Q1434274,way
 Pappelbrink,wikidata,-,Q25356,way
 Pappelteich,wikidata,-,Q25356,way
@@ -1539,6 +1544,7 @@ Westerwaldstraße,wikidata,-,Q640966,way
 Westpreußenufer,wikidata,-,Q161947,way
 Westschnellweg,wikidata,-,Q679,way
 Weststraße,wikidata,-,Q679,way
+"Wettberger Edelhof",wikidata,-,Q21036375,way
 "Wettberger Straße",wikidata,-,Q97940796,way
 Wettinerweg,wikidata,-,Q152909,way
 Wiedenlohe,wikidata,-,Q1434274,way
@@ -1608,6 +1614,7 @@ Zobtenweg,wikidata,-,Q387148,way
 Bergfeldstraße,wikidata,?,Q1434274;Q70703,way
 Goethestraße,wikidata,?,Q106840484;Q5879,way
 Hannelore-Kunze-Straße,wikidata,?,Q1227673;Q9202379;Q97481819,way
+Hanns-Lilje-Platz,wikidata,?,Q102342;Q330284,way
 Heinrichstraße,wikidata,?,Q2018484;Q98446577,way
 Hofackerstraße,wikidata,?,Q1434274;Q70703,way
 Karlstraße,wikidata,?,Q15731830;Q97979686,way
@@ -1720,6 +1727,7 @@ Inge-Meier-Hof,wikidata,F,Q108837343,way
 Ingeborg-Drewitz-Gang,wikidata,F,Q71381,way
 Ingeborg-Steinohrt-Weg,wikidata,F,Q1506833,way
 Ira-Wolkowa-Weg,wikidata,F,Q110181427,way
+Iris-Runge-Platz,wikidata,F,Q1672752,way
 Irma-Pickerd-Weg,wikidata,F,Q107711649,way
 Irmgard-Woldering-Straße,wikidata,F,Q1673025,way
 Jina-Mahsa-Amini-Platz,wikidata,F,Q113994656,way
@@ -1758,6 +1766,7 @@ Margarethe-und-Max-Rüdenberg-Platz,wikidata,F,Q98216102,way
 Margot-Büttner-Weg,wikidata,F,Q63486215,way
 Margot-Matthias-Straße,wikidata,F,Q98381733,way
 Maria-Caspar-Filser-Straße,wikidata,F,Q545965,way
+Maria-Goeppert-Mayer-Platz,wikidata,F,Q57100,way
 Maria-Montessori-Weg,wikidata,F,Q131117,way
 Maria-Suszyńska-Bartmann-Weg,wikidata,F,Q98280492,way
 Maria-Telkes-Platz,wikidata,F,Q7415,way
@@ -1766,7 +1775,7 @@ Marianne-Baecker-Allee,wikidata,F,Q1495270,way
 Marie-Jahn-Straße,wikidata,F,Q17747751,way
 Marie-Jorns-Ring,wikidata,F,Q1714566,way
 Marie-Radecki-Weg,wikidata,F,Q137917764,way
-Marienstraße,wikidata,F,Q61452,relation
+Marienstraße,wikidata,F,Q61452,relation+way
 Marion-Donovan-Straße,wikidata,F,Q543278,way
 Martel-Schwichtenberg-Straße,wikidata,F,Q1646186,way
 Martha-Wissmann-Platz,wikidata,F,Q98280685,way
@@ -2217,7 +2226,6 @@ Hammhof,wikidata,M,Q94937860,way
 Hamsunstraße,wikidata,M,Q40826,way
 Händelstraße,wikidata,M,Q7302,way
 Hanebuthwinkel,wikidata,M,Q1684033,way
-Hanns-Lilje-Platz,wikidata,M,Q102342,way
 Hanomagstraße,wikidata,M,Q22692580,way
 Hans-Böckler-Allee,wikidata,M,Q105130,way
 Hans-Eyl-Straße,wikidata,M,Q15455849,way

@@ -31,7 +31,6 @@ Alterwiesen,,,,way
 "Am Flachsgraben",,,,way
 "Am Graswege",,,,way
 "Am Gutspark",,,,way
-"Am Hinüberschen Garten",,,,way
 "Am Hofs Meisterwinkel",,,,way
 "Am Hohmannhof",,,,way
 "Am Holzgraben",,,,way
@@ -352,11 +351,9 @@ Hasenweg,,,,way
 Hauptstraße,,,,way
 Hauptweg,,,,way
 Heesternwinkel,,,,way
-Hegebläch,,,,way
 Heidegrün,,,,way
 Heideweg,,,,way
 Heidornstraße,,,,way
-Heimatweg,,,,way
 Heimstättenstraße,,,,way
 Heimweg,,,,way
 Heinz-Boldt-Weg,,,,way
@@ -415,13 +412,17 @@ Immelmannstraße,,,,way
 "In der Masch",,,,way
 "In der Reuterwiese",,,,way
 "In der Steintormasch",,,,way
-Iris-Runge-Platz,,,,way
 Jägerstieg,,,,way
 Jägerstraße,,,,way
 Jakobsweg,,,,way
 Jungfernstieg,,,,way
 "KGV Feierabend Erlenweg",,,,way
+"KGV Krügersruh, Asternweg",,,,way
+"KGV Krügersruh, Dahlienweg",,,,way
 "KGV Krügersruh, Maiblumenweg",,,,way
+"KGV Krügersruh, Nelkenweg",,,,way
+"KGV Krügersruh, Primelweg",,,,way
+"KGV Krügersruh, Veilchenweg",,,,way
 Karl-Heinz-Berkowksy-Weg,,,,way
 Karl-König-Weg,,,,way
 Karpfenweg,,,,way
@@ -580,7 +581,6 @@ Osterbrückenweg,,,,way
 Ostergrube,,,,way
 Ostermeierstraße,,,,way
 Palmenweg,,,,way
-Palmstraße,,,,way
 Pannenflickergang,,,,way
 Papenstieg,,,,way
 Papenwinkel,,,,way
@@ -734,6 +734,7 @@ Stieglitzweg,,,,way
 Stiftstraße,,,,way
 "Stilles Tal",,,,way
 Storchgang,,,,way
+Strandlebenbrücke,,,,way
 Streitäckergraben,,,,way
 Struthofstraße,,,,way
 Stuckestraße,,,,way
@@ -805,7 +806,6 @@ Weidewinkel,,,,way
 Weißekreuzstraße,,,,way
 Werner-Bock-Weg,,,,way
 Wesselstraße,,,,way
-"Wettberger Edelhof",,,,way
 Wickenweg,,,,way
 Widemannstraße,,,,way
 Wieckebrücke,,,,way
