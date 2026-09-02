@@ -12,7 +12,6 @@ Allerweg,,,,way
 "Alter Damm",,,,way
 "Alter Mühlenkamp",,,,way
 Alterwiesen,,,,way
-"Altfeierabend Bezirk 16",,,,way
 "Altwarmbüchener Moor",,,,way
 "Am Ahltener Weg",,,,way
 "Am Bache",,,,way
@@ -129,6 +128,7 @@ Berkelmannweg,,,,way
 "Bezirk 01",,,,way
 "Bezirk 1",,,,way
 "Bezirk 11",,,,way
+"Bezirk 16",,,,way
 "Bezirk 2",,,,way
 "Bezirk 3",,,,way
 "Bezirk 4",,,,way
@@ -146,6 +146,7 @@ Blantyreweg,,,,way
 Bleichenstraße,,,,way
 Blindenweg,,,,way
 Blomeweg,,,,way
+"Blumenauer Arcaden",,,,way
 Blumengang,,,,way
 Blumenstraße,,,,way
 Blumenweg,,,,way
@@ -225,7 +226,6 @@ Elisenstraße,,,,way
 Elkartallee,,,,relation
 Elmweg,,,,way
 Elsterweg,,,,way
-Ema-Mohr-Straße,,,,way
 Entenfangweg,,,,way
 Entenweg,,,,way
 Enzianweg,,,,way
@@ -357,7 +357,6 @@ Heidornstraße,,,,way
 Heimstättenstraße,,,,way
 Heimweg,,,,way
 Heinz-Boldt-Weg,,,,way
-Heisterbergallee,,,,way
 Helenenstieg,,,,way
 Helmkestraße,,,,way
 "Hemminger Kirchweg",,,,way
@@ -386,7 +385,6 @@ Hoyerstraße,,,,way
 Huesmannhof,,,,way
 "Hugo Windt Weg",,,,way
 Hüttenstraße,,,,way
-Ihme-Ufer-Weg,,,,way
 Ihmepassage,,,,way
 Ihtweg,,,,way
 "Im Ahorn",,,,way
@@ -417,12 +415,6 @@ Jägerstraße,,,,way
 Jakobsweg,,,,way
 Jungfernstieg,,,,way
 "KGV Feierabend Erlenweg",,,,way
-"KGV Krügersruh, Asternweg",,,,way
-"KGV Krügersruh, Dahlienweg",,,,way
-"KGV Krügersruh, Maiblumenweg",,,,way
-"KGV Krügersruh, Nelkenweg",,,,way
-"KGV Krügersruh, Primelweg",,,,way
-"KGV Krügersruh, Veilchenweg",,,,way
 Karl-Heinz-Berkowksy-Weg,,,,way
 Karl-König-Weg,,,,way
 Karpfenweg,,,,way
@@ -503,7 +495,7 @@ Liepeweg,,,,way
 Liethfeld,,,,way
 Lilienweg,,,,way
 Limburg-Passage,,,,way
-"Lindener Schmuckplatz",,,,way
+"Lindener Schmuckplatz",,,,relation
 Lindenplan,,,,way
 "Lister Damm",,,,way
 "Lister Kirchweg",,,,way
@@ -745,6 +737,7 @@ Sündernstraße,,,,way
 Süntelweg,,,,way
 Suthwiesenstraße,,,,way
 Taubengang,,,,way
+Taubenweg,,,,way
 Tegtmeyershof,,,,way
 Teichhöfe,,,,way
 Teichpfade,,,,way
@@ -782,7 +775,6 @@ Volgersweg,,,,way
 Vollmond,,,,way
 Voltmerstraße,,,,way
 Von-Escherte-Straße,,,,way
-"Vordere Schöneworth",,,,way
 Vorplatz,,,,way
 Waldchaussee,,,,way
 Waldmops-Weg,,,,way

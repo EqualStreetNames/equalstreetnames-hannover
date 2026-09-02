@@ -87,7 +87,7 @@ Altmarkhof,wikidata,-,Q442655,way
 "Am Herrenhäuser Bahnhof",wikidata,-,Q800887,way
 "Am Hinüberschen Garten",wikidata,-,Q1619891,way
 "Am Hirtenbach",wikidata,-,Q18625674,way
-"Am Hohen Ufer",wikidata,-,Q468756,relation+way
+"Am Hohen Ufer",wikidata,-,Q468756,relation
 "Am Holderbusch",wikidata,-,Q25662,way
 "Am Holunder",wikidata,-,Q131448,way
 "Am Hopfengarten",wikidata,-,Q1434274,way
@@ -102,7 +102,7 @@ Altmarkhof,wikidata,-,Q442655,way
 "Am Klagesmarkt",wikidata,-,Q1744242,relation+way
 "Am Kläperberg",wikidata,-,Q19798648,way
 "Am Kronsberg",wikidata,-,Q166745,way
-"Am Küchengarten",wikidata,-,Q624114,way
+"Am Küchengarten",wikidata,-,Q624114,relation
 "Am Laher Graben",wikidata,-,Q124030968,way
 "Am Landwehrgraben",wikidata,-,Q661908,way
 "Am Langen Berge",wikidata,-,Q1434274,way
@@ -644,6 +644,7 @@ Heimstraße,wikidata,-,Q1307276,way
 Heinersdorfweg,wikidata,-,Q693540,way
 "Heinescher Hof",wikidata,-,Q2887356,way
 "Heiseder Straße",wikidata,-,Q1601302,way
+Heisterbergallee,wikidata,-,Q30760860,way
 Heisterholzwinkel,wikidata,-,Q1434274,way
 "Heitlinger Hof",wikidata,-,Q17322211,way
 "Heitlinger Straße",wikidata,-,Q17322211,way
@@ -662,7 +663,7 @@ Hermann-Löns-Park,wikidata,-,Q1610456,way
 Hermannstraße,wikidata,-,Q1158570,way
 Hermesallee,wikidata,-,Q41484,way
 Herninghof,wikidata,-,Q27393,way
-"Herrenhäuser Allee",wikidata,-,Q63387763,relation
+"Herrenhäuser Allee",wikidata,-,Q63387763,relation+way
 "Herrenhäuser Kirchweg",wikidata,-,Q63387763,way
 "Herrenhäuser Markt",wikidata,-,Q63387763,relation
 "Herrenhäuser Straße",wikidata,-,Q63387763,way
@@ -1488,6 +1489,7 @@ Von-Graevemeyer-Weg,wikidata,-,Q968135,way
 "Vor der Kiehwiese",wikidata,-,Q1434274,way
 "Vor der Kornhast",wikidata,-,Q1434274,way
 "Vor der Seelhorst",wikidata,-,Q97313071,way
+"Vordere Schöneworth",wikidata,-,Q25089880,way
 Vreesweg,wikidata,-,Q659192,way
 "Wachendorfer Hain",wikidata,-,Q2538354,way
 Wachsbleiche,wikidata,-,Q1434274,way
@@ -1730,7 +1732,7 @@ Ira-Wolkowa-Weg,wikidata,F,Q110181427,way
 Iris-Runge-Platz,wikidata,F,Q1672752,way
 Irma-Pickerd-Weg,wikidata,F,Q107711649,way
 Irmgard-Woldering-Straße,wikidata,F,Q1673025,way
-Jina-Mahsa-Amini-Platz,wikidata,F,Q113994656,way
+Jina-Mahsa-Amini-Platz,wikidata,F,Q113994656,relation+way
 Julienne-Trouet-Platz,wikidata,F,Q98216019,way
 Jutta-Bleidissel-Weg,wikidata,F,Q137994190,way
 Karla-Schmidt-Straße,wikidata,F,Q98684175,way
@@ -1743,6 +1745,7 @@ Käthe-Steinitz-Straße,wikidata,F,Q6567261,way
 Käthe-Vordtriede-Weg,wikidata,F,Q1795558,way
 Katrin-Sello-Weg,wikidata,F,Q1736752,way
 Kirchnerweg,wikidata,F,Q87358,way
+"Kirsten- John-Weg",wikidata,F,Q1167358,way
 Lenchen-Kunow-Weg,wikidata,F,Q2755765,way
 Lieselotte-Rogge-Straße,wikidata,F,Q97482186,way
 Lilli-Friedemann-Ring,wikidata,F,Q19513371,way
