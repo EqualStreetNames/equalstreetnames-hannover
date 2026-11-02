@@ -140,6 +140,7 @@ Altmarkhof,wikidata,-,Q442655,way
 "Am Steinbruch",wikidata,-,Q15115254,way
 "Am Stöckener Bach",wikidata,-,Q55091507,relation+way
 "Am Südbahnhof",wikidata,-,Q98043952,relation+way
+"Am Südhang",wikidata,-,Q2221906,way
 "Am Sünderkamp",wikidata,-,Q1434274,way
 "Am Tiergarten",wikidata,-,Q1676123,way
 "Am Tönniesberg",wikidata,-,Q18028811,way
@@ -258,6 +259,7 @@ Beiersdorfstraße,wikidata,-,Q201691,way
 Benther-Berg-Straße,wikidata,-,Q818260,way
 "Bergener Straße",wikidata,-,Q505665,way
 Berggartenstraße,wikidata,-,Q819663,way
+Bergkammstraße,wikidata,-,Q2221906,way
 Bergstraße,wikidata,-,Q166745,way
 "Berliner Allee",wikidata,-,Q64,relation+way
 "Berliner Platz",wikidata,-,Q64,way
@@ -1125,6 +1127,7 @@ Pappelteich,wikidata,-,Q25356,way
 Pappelweg,wikidata,-,Q25356,way
 Pappelwiese,wikidata,-,Q25356,way
 "Pariser Platz",wikidata,-,Q90,way
+Parkstraße,wikidata,-,Q22698,way
 Passargeweg,wikidata,-,Q2055907,way
 Pavillonstraße,wikidata,-,Q24054465,way
 "Peiner Straße",wikidata,-,Q6850,way
@@ -1623,6 +1626,7 @@ Karlstraße,wikidata,?,Q15731830;Q97979686,way
 "Platz der Menschenrechte",wikidata,?,Q1599069;Q8458,relation+way
 Weberstraße,wikidata,?,Q154812;Q1815315,way
 Wilhelmstraße,wikidata,?,Q11027623;Q130822,way
+Wohlenbergstraße,wikidata,?,Q15447462;Q329683,way
 Ada-Lessing-Straße,wikidata,F,Q346156,way
 Adelheid-Reinbold-Hof,wikidata,F,Q354706,way
 Adelheidstraße,wikidata,F,Q57645,way
@@ -1745,7 +1749,7 @@ Käthe-Steinitz-Straße,wikidata,F,Q6567261,way
 Käthe-Vordtriede-Weg,wikidata,F,Q1795558,way
 Katrin-Sello-Weg,wikidata,F,Q1736752,way
 Kirchnerweg,wikidata,F,Q87358,way
-"Kirsten- John-Weg",wikidata,F,Q1167358,way
+Kirsten-John-Weg,wikidata,F,Q1167358,way
 Lenchen-Kunow-Weg,wikidata,F,Q2755765,way
 Lieselotte-Rogge-Straße,wikidata,F,Q97482186,way
 Lilli-Friedemann-Ring,wikidata,F,Q19513371,way
@@ -2926,7 +2930,6 @@ Wittekindstraße,wikidata,M,Q2567799,way
 Witzendorffstraße,wikidata,M,Q55127357,way
 Witzlebenweg,wikidata,M,Q57156,way
 Woermannstraße,wikidata,M,Q75083,way
-Wohlenbergstraße,wikidata,M,Q15447462,way
 Woldstedthof,wikidata,M,Q2063194,way
 Wolfgang-Besemer-Ufer,wikidata,M,Q110243024,way
 Wolfstraße,wikidata,M,Q1556810,way
